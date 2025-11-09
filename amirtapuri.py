@@ -19,7 +19,7 @@ for team in teams_data:
     team_name = team['name']
     team_institution = team['institution']
     for rank_entry in rank_data:
-        if rank_entry['Team Name'] == team_name and rank_entry['Institute'] == team_institution:
+        if rank_entry['Team Name'].lower().strip() == team_name.lower().strip() and rank_entry['Institute'].lower().strip() == team_institution.lower().strip():
             amirtapuri_team = {}
             amirtapuri_team['rank'] = int(rank_entry['Rank'])
             amirtapuri_team['name'] = rank_entry['Team Name']

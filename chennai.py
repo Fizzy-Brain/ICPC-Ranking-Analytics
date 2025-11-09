@@ -19,7 +19,7 @@ for team in teams_data:
     team_name = team['name']
     team_institution = team['institution']
     for rank_entry in rank_data:
-        if rank_entry['Team Name'] == team_name and rank_entry['Institute'] == team_institution:
+        if rank_entry['Team Name'].lower().strip() == team_name.lower().strip() and rank_entry['Institute'].lower().strip() == team_institution.lower().strip():
             chennai_team = {}
             chennai_team['rank'] = int(rank_entry['Rank'])
             chennai_team['name'] = team_name
@@ -32,7 +32,6 @@ for team in teams_data:
                 clg_teams.append(chennai_team)
             chennai_teams_rank.append(chennai_team)
             break
-
 chennai_teams_rank.sort(key=lambda x: x['rank'])
 clg_teams.sort(key=lambda x: x['rank'])
 rank = 1
