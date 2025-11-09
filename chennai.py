@@ -1,6 +1,7 @@
 import json
 import pandas as pd
 from tabulate import tabulate
+from collections import defaultdict
 
 teams_data = []
 rank_data = []
@@ -36,12 +37,40 @@ chennai_teams_rank.sort(key=lambda x: x['rank'])
 clg_teams.sort(key=lambda x: x['rank'])
 rank = 1
 i=0
+
+diff_clgs = defaultdict(list)
 for team in chennai_teams_rank:
+    diff_clgs[team['institution']].append(team)
     if team['institution'] == "Chennai Institute of Technology" and team['name'] == clg_teams[i]['name']:
         clg_teams[i]['S.No'] = i+1
         clg_teams[i]['regional_rank'] = rank
         i+=1
     rank += 1
+
+def filter_by_institution_chennai(number_of_teams=3):
+    filtered_teams = []
+
+    for teams in diff_clgs.values():
+        teams.sort(key=lambda x: x['rank'])
+        for i in range(number_of_teams):
+            if i < len(teams):
+                filtered_teams.append(teams[i])
+
+    filtered_teams.sort(key=lambda x: x['rank'])
+    for i in range(len(filtered_teams)):
+        filtered_teams[i]['regional rank'] = i + 1
+
+    df = pd.DataFrame(filtered_teams)
+    df = df[['regional rank' ,'rank', 'name', 'institution', 'score']]
+    df.columns = ['Regional Rank' , 'Overall Rank', 'Team Name', 'Institution', 'Score']
+    colors = [''] * len(df)
+    for i in range(len(df)):
+        if df.iloc[i]['Institution'] == 'Chennai Institute of Technology':
+            colors[i] = '\033[92m'
+    df['Institution'] = [f"{color}{inst}\033[0m" if color else inst 
+                        for color, inst in zip(colors, df['Institution'])]
+    
+    print(tabulate(df, headers=df.columns, tablefmt='pretty', showindex=False, numalign='left', stralign='left'))
 
 def chennai_region_clg_teams():
     df = pd.DataFrame(clg_teams)
