@@ -14,24 +14,33 @@ with open('ranklist.json', encoding='utf-8') as f:
 
 amirtapuri_teams_rank = []
 clg_teams = []
-
+apx , codecubed = 0, 0
 for team in teams_data:
     team_name = team['name']
     team_institution = team['institution']
     for rank_entry in rank_data:
+        amirtapuri_team = {}
+        amirtapuri_team['rank'] = int(rank_entry['Rank'])
+        amirtapuri_team['name'] = rank_entry['Team Name']
+        amirtapuri_team['id'] = rank_entry['Usename']
+        amirtapuri_team['institution'] = rank_entry['Institute']
+        amirtapuri_team['score'] = int(rank_entry['Score'])
+        amirtapuri_team['Penalties'] = int(rank_entry['Penalties'])
+        amirtapuri_team['Total Time'] = rank_entry['Total Time']
+
+        if apx==0 and rank_entry['Team Name'] == "APX":
+            clg_teams.append(amirtapuri_team)
+            amirtapuri_teams_rank.append(amirtapuri_team)
+            apx=1
+        if codecubed==0 and rank_entry['Team Name'] == "Codecubed":
+            clg_teams.append(amirtapuri_team)
+            amirtapuri_teams_rank.append(amirtapuri_team)
+            codecubed=1
         if rank_entry['Team Name'] == team_name and rank_entry['Institute'] == team_institution:
-            amirtapuri_team = {}
-            amirtapuri_team['rank'] = int(rank_entry['Rank'])
-            amirtapuri_team['name'] = team_name
-            amirtapuri_team['id'] = rank_entry['Usename']
-            amirtapuri_team['institution'] = team_institution
-            amirtapuri_team['score'] = int(rank_entry['Score'])
-            amirtapuri_team['Penalties'] = int(rank_entry['Penalties'])
-            amirtapuri_team['Total Time'] = rank_entry['Total Time']
             if team_institution == "Chennai Institute of Technology":
                 clg_teams.append(amirtapuri_team)
             amirtapuri_teams_rank.append(amirtapuri_team)
-            break
+            if(apx==1 and codecubed==1): break
 
 amirtapuri_teams_rank.sort(key=lambda x: x['rank'])
 clg_teams.sort(key=lambda x: x['rank'])
