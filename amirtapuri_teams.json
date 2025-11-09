@@ -1,0 +1,7002 @@
+[
+    {
+        "teamId": null,
+        "name": "BinaryLift",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University"
+    },
+    {
+        "teamId": null,
+        "name": "Radha rani ki Kripa",
+        "status": null,
+        "country": "",
+        "institution": "Motilal Nehru National Institute of Technology - Allahabad"
+    },
+    {
+        "teamId": null,
+        "name": "Bitwise Coders 2.0",
+        "status": null,
+        "country": "",
+        "institution": "G.H. Raisoni College of Engineering, Nagpur"
+    },
+    {
+        "teamId": null,
+        "name": "Brahmos",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Silchar"
+    },
+    {
+        "teamId": null,
+        "name": "Fullmetal Coders",
+        "status": null,
+        "country": "",
+        "institution": "VIT Bhopal University"
+    },
+    {
+        "teamId": null,
+        "name": "Codeblooded ",
+        "status": null,
+        "country": "",
+        "institution": "Nirma University"
+    },
+    {
+        "teamId": null,
+        "name": "VU-Marvel  Coders",
+        "status": null,
+        "country": "",
+        "institution": "Vignan University, Guntur"
+    },
+    {
+        "teamId": null,
+        "name": "VU-Ctrl Alt Elite",
+        "status": null,
+        "country": "",
+        "institution": "Vignan University, Guntur"
+    },
+    {
+        "teamId": null,
+        "name": "NITSCodersTrio",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Silchar"
+    },
+    {
+        "teamId": null,
+        "name": "SegFault Squad",
+        "status": null,
+        "country": "",
+        "institution": "KIET GROUP OF INSTITUTIONS"
+    },
+    {
+        "teamId": null,
+        "name": "Berlin",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Raipur"
+    },
+    {
+        "teamId": null,
+        "name": "STUCKED_IN_TLE",
+        "status": null,
+        "country": "",
+        "institution": "Raj Kumar Goel Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "The Dark Knights",
+        "status": null,
+        "country": "",
+        "institution": "Coimbatore Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "DEVIN",
+        "status": null,
+        "country": "",
+        "institution": "Shri Ramdeobaba College of Engineering and Management, Nagpur"
+    },
+    {
+        "teamId": null,
+        "name": "P3",
+        "status": null,
+        "country": "",
+        "institution": "KIET GROUP OF INSTITUTIONS"
+    },
+    {
+        "teamId": null,
+        "name": "ACE",
+        "status": null,
+        "country": "",
+        "institution": "KIET GROUP OF INSTITUTIONS"
+    },
+    {
+        "teamId": null,
+        "name": "Main TLE dilaunga",
+        "status": null,
+        "country": "",
+        "institution": "Rajiv Gandhi Institute Of Petroleum Technology"
+    },
+    {
+        "teamId": null,
+        "name": "O(3) Optimizer",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Tiruchirappalli"
+    },
+    {
+        "teamId": null,
+        "name": "code blooded",
+        "status": null,
+        "country": "",
+        "institution": "Sri Eshwar College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "P&F",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Engineering Science and Technology, Shibpur"
+    },
+    {
+        "teamId": null,
+        "name": "PixelPioneers",
+        "status": null,
+        "country": "",
+        "institution": "Sri Eshwar College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Brahmaputra",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Silchar"
+    },
+    {
+        "teamId": null,
+        "name": "HackStreets",
+        "status": null,
+        "country": "",
+        "institution": "Sri Eshwar College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "ZE Masters",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Computing, Coimbatore"
+    },
+    {
+        "teamId": null,
+        "name": "Run Time Terror",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University"
+    },
+    {
+        "teamId": null,
+        "name": "Bit Battleground",
+        "status": null,
+        "country": "",
+        "institution": "GLA University, Mathura"
+    },
+    {
+        "teamId": null,
+        "name": "4b3r4g3",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Varanasi"
+    },
+    {
+        "teamId": null,
+        "name": "SternRitter",
+        "status": null,
+        "country": "",
+        "institution": "Shri Govindram Seksaria Institute of Technology and Science"
+    },
+    {
+        "teamId": null,
+        "name": "Tortoise_trio",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University"
+    },
+    {
+        "teamId": null,
+        "name": "Clarions",
+        "status": null,
+        "country": "",
+        "institution": "Dronacharya College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Code_Wreckers-O-O-",
+        "status": null,
+        "country": "",
+        "institution": "Dronacharya College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Bruteforcers",
+        "status": null,
+        "country": "",
+        "institution": "University of Hyderabad"
+    },
+    {
+        "teamId": null,
+        "name": "The III Tor-queues",
+        "status": null,
+        "country": "",
+        "institution": "RV Institute of Technology and Management, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "VisitorsLemma",
+        "status": null,
+        "country": "",
+        "institution": "Sri Manakula Vinayagar Engineering College"
+    },
+    {
+        "teamId": null,
+        "name": "#include \"amrita.h\"",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Computing, Coimbatore"
+    },
+    {
+        "teamId": null,
+        "name": "Div4Maxxer",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "Hexadecimal Decoder",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College Of Engineering and Research, Pune"
+    },
+    {
+        "teamId": null,
+        "name": "BWU Coders",
+        "status": null,
+        "country": "",
+        "institution": "Brainware University"
+    },
+    {
+        "teamId": null,
+        "name": "Code X",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Silchar"
+    },
+    {
+        "teamId": null,
+        "name": "solved by mistake",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University, Kolkata"
+    },
+    {
+        "teamId": null,
+        "name": "KingPin",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Chennai"
+    },
+    {
+        "teamId": null,
+        "name": "CodeX",
+        "status": null,
+        "country": "",
+        "institution": "Sri Eshwar College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Algo Sutras",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham"
+    },
+    {
+        "teamId": null,
+        "name": "Zerobit",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Silchar"
+    },
+    {
+        "teamId": null,
+        "name": "AC Hunters",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Silchar"
+    },
+    {
+        "teamId": null,
+        "name": "Stack_Overflow",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Silchar"
+    },
+    {
+        "teamId": null,
+        "name": "Team X-Force",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering, Pune"
+    },
+    {
+        "teamId": null,
+        "name": "SPARTANS",
+        "status": null,
+        "country": "",
+        "institution": "Manipal University Jaipur"
+    },
+    {
+        "teamId": null,
+        "name": "Nth_Degree",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Computing, Coimbatore"
+    },
+    {
+        "teamId": null,
+        "name": "WATOAC",
+        "status": null,
+        "country": "",
+        "institution": "Government College of Engineering, Aurangabad, Maharashtra"
+    },
+    {
+        "teamId": null,
+        "name": "Breaking Boundaries",
+        "status": null,
+        "country": "",
+        "institution": "Sri Eshwar College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "The Debug Thugs",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Computing, Coimbatore"
+    },
+    {
+        "teamId": null,
+        "name": "Karate Kids",
+        "status": null,
+        "country": "",
+        "institution": "RNS Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "VU-GAR",
+        "status": null,
+        "country": "",
+        "institution": "Vignan University, Guntur"
+    },
+    {
+        "teamId": null,
+        "name": "ByteMe",
+        "status": null,
+        "country": "",
+        "institution": "Graphic Era Hill University"
+    },
+    {
+        "teamId": null,
+        "name": "The Noobs",
+        "status": null,
+        "country": "",
+        "institution": "IIT Bhubaneswar"
+    },
+    {
+        "teamId": null,
+        "name": "iostream",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Tiruchirappalli"
+    },
+    {
+        "teamId": null,
+        "name": "Pinaka",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Silchar"
+    },
+    {
+        "teamId": null,
+        "name": "just a sec",
+        "status": null,
+        "country": "",
+        "institution": "RNS Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "CodeForgers",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Silchar"
+    },
+    {
+        "teamId": null,
+        "name": "AAA",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Bombay"
+    },
+    {
+        "teamId": null,
+        "name": "We3Code",
+        "status": null,
+        "country": "",
+        "institution": "Graphic Era Hill University"
+    },
+    {
+        "teamId": null,
+        "name": "Dereferencers",
+        "status": null,
+        "country": "",
+        "institution": "KIET GROUP OF INSTITUTIONS"
+    },
+    {
+        "teamId": null,
+        "name": "BinaryBrains",
+        "status": null,
+        "country": "",
+        "institution": "Sri Eshwar College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Ctrl-Alt-Accepted",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Bombay"
+    },
+    {
+        "teamId": null,
+        "name": "CodeWarriors28",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "SKYNET",
+        "status": null,
+        "country": "",
+        "institution": "Shri Ramdeobaba College of Engineering and Management, Nagpur"
+    },
+    {
+        "teamId": null,
+        "name": "NP-Hardcore",
+        "status": null,
+        "country": "",
+        "institution": "KIET GROUP OF INSTITUTIONS"
+    },
+    {
+        "teamId": null,
+        "name": "HOX ALPHA",
+        "status": null,
+        "country": "",
+        "institution": "Coimbatore Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "AAA_s",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Patna"
+    },
+    {
+        "teamId": null,
+        "name": "ICPC@UVCE",
+        "status": null,
+        "country": "",
+        "institution": "University Visvesvaraya College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Merge Conflicts",
+        "status": null,
+        "country": "",
+        "institution": "Sri Eshwar College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Newbie-Squad",
+        "status": null,
+        "country": "",
+        "institution": "Guru Nanak Dev University - Amritsar-143005"
+    },
+    {
+        "teamId": null,
+        "name": "codeX Trio",
+        "status": null,
+        "country": "",
+        "institution": "Sri Eshwar College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Recursive Jalebis",
+        "status": null,
+        "country": "",
+        "institution": "K. J. Somaiya College of Engineering, Vidyavihar, Mumbai"
+    },
+    {
+        "teamId": null,
+        "name": "Segmentation Fakers",
+        "status": null,
+        "country": "",
+        "institution": "University School of Information Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Certified Bricks",
+        "status": null,
+        "country": "",
+        "institution": "Jaypee Institute of Information Technology"
+    },
+    {
+        "teamId": null,
+        "name": "MerchSortFree",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Roorkee"
+    },
+    {
+        "teamId": null,
+        "name": "TLE.exe",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute Of Information Technology Agartala"
+    },
+    {
+        "teamId": null,
+        "name": "DuckTape",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Roorkee"
+    },
+    {
+        "teamId": null,
+        "name": "TechTeam",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Roorkee"
+    },
+    {
+        "teamId": null,
+        "name": "Code_Optimizer",
+        "status": null,
+        "country": "",
+        "institution": "Birla Vishvakarma Mahavidyalaya Engineering College"
+    },
+    {
+        "teamId": null,
+        "name": "CodeStorm",
+        "status": null,
+        "country": "",
+        "institution": "Nirma University"
+    },
+    {
+        "teamId": null,
+        "name": "VoidMain",
+        "status": null,
+        "country": "",
+        "institution": "Siliguri Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Ananta",
+        "status": null,
+        "country": "",
+        "institution": "Faculty of Technology, University of Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "Jobless_Experts",
+        "status": null,
+        "country": "",
+        "institution": "Rajarshi Shahu College of Engineering, Pune"
+    },
+    {
+        "teamId": null,
+        "name": "WeAreDone",
+        "status": null,
+        "country": "",
+        "institution": "I.K.Gujral Punjab Techinical University, Jalandhar (Main Campus)"
+    },
+    {
+        "teamId": null,
+        "name": "3Wisemen",
+        "status": null,
+        "country": "",
+        "institution": "TECHNO INDIA UNIVERSITY, WEST BENGAL"
+    },
+    {
+        "teamId": null,
+        "name": "TeamNAS",
+        "status": null,
+        "country": "",
+        "institution": "Thapar Institute of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Coffee Driven Devs",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Computing, Coimbatore"
+    },
+    {
+        "teamId": null,
+        "name": "Xorrier",
+        "status": null,
+        "country": "",
+        "institution": "Government Engineering College, Gandhinagar"
+    },
+    {
+        "teamId": null,
+        "name": "Titans",
+        "status": null,
+        "country": "",
+        "institution": "Malaviya National Institute of Technology Jaipur"
+    },
+    {
+        "teamId": null,
+        "name": "Shaktiman",
+        "status": null,
+        "country": "",
+        "institution": "Maulana Azad National Institute of Technology Bhopal"
+    },
+    {
+        "teamId": null,
+        "name": "Dark Cyber",
+        "status": null,
+        "country": "",
+        "institution": "S.B. Jain Institute of Technology Management & Research"
+    },
+    {
+        "teamId": null,
+        "name": "CrystaLMatH",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute Of Technology Jodhpur "
+    },
+    {
+        "teamId": null,
+        "name": "coder",
+        "status": null,
+        "country": "",
+        "institution": "Dharmsinh Desai Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Memory Limit Exceeded",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University, Kolkata"
+    },
+    {
+        "teamId": null,
+        "name": "bitbitter",
+        "status": null,
+        "country": "",
+        "institution": "Madan Mohan Malaviya University of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "BTech Duals",
+        "status": null,
+        "country": "",
+        "institution": "IIT Bhubaneswar"
+    },
+    {
+        "teamId": null,
+        "name": "Team HAM ",
+        "status": null,
+        "country": "",
+        "institution": "Thapar Institute of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Algorythm",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Computing, Coimbatore"
+    },
+    {
+        "teamId": null,
+        "name": "ANR",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Una"
+    },
+    {
+        "teamId": null,
+        "name": "DSAxioms",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Tiruchirappalli"
+    },
+    {
+        "teamId": null,
+        "name": "Samosa Squad",
+        "status": null,
+        "country": "",
+        "institution": "Jawaharlal Nehru University"
+    },
+    {
+        "teamId": null,
+        "name": "Team Invincibles",
+        "status": null,
+        "country": "",
+        "institution": "Jawaharlal Nehru University"
+    },
+    {
+        "teamId": null,
+        "name": "spark",
+        "status": null,
+        "country": "",
+        "institution": "MIT Academy of Engineering, Alandi"
+    },
+    {
+        "teamId": null,
+        "name": "AlgoX",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Tiruchirappalli"
+    },
+    {
+        "teamId": null,
+        "name": "Team Neon",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Manipur"
+    },
+    {
+        "teamId": null,
+        "name": "BUGSY BOIS",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Computing, Coimbatore"
+    },
+    {
+        "teamId": null,
+        "name": "Medusa's Deadlocks",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Roorkee"
+    },
+    {
+        "teamId": null,
+        "name": "Code Alchemy",
+        "status": null,
+        "country": "",
+        "institution": "Thapar Institute of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "SIGSEGV",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University"
+    },
+    {
+        "teamId": null,
+        "name": "Fenwick",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Engineering Science and Technology, Shibpur"
+    },
+    {
+        "teamId": null,
+        "name": "Newbies",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Tiruchirappalli"
+    },
+    {
+        "teamId": null,
+        "name": "Prime Numbers",
+        "status": null,
+        "country": "",
+        "institution": "Shri Guru Gobind Singhji Institute of Engineering and Technology"
+    },
+    {
+        "teamId": null,
+        "name": "whiletruecode",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Tiruchirappalli"
+    },
+    {
+        "teamId": null,
+        "name": "NinjaCoders",
+        "status": null,
+        "country": "",
+        "institution": "Graphic Era Hill University"
+    },
+    {
+        "teamId": null,
+        "name": "OnePlusOneTen",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University"
+    },
+    {
+        "teamId": null,
+        "name": "TRIFORCE",
+        "status": null,
+        "country": "",
+        "institution": "Shri Ramdeobaba College of Engineering and Management, Nagpur"
+    },
+    {
+        "teamId": null,
+        "name": "SecFive",
+        "status": null,
+        "country": "",
+        "institution": "B. M. S. College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "TheStrawHats",
+        "status": null,
+        "country": "",
+        "institution": "Jaypee Institute of Information Technology"
+    },
+    {
+        "teamId": null,
+        "name": "B-s-kit",
+        "status": null,
+        "country": "",
+        "institution": "Jaypee Institute of Information Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Binary Brains 3.0",
+        "status": null,
+        "country": "",
+        "institution": "K L University"
+    },
+    {
+        "teamId": null,
+        "name": "npm i cp",
+        "status": null,
+        "country": "",
+        "institution": "Dr. D.Y. Patil Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "TRIONIX",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "Team Cherry",
+        "status": null,
+        "country": "",
+        "institution": "K. J. Somaiya College of Engineering, Vidyavihar, Mumbai"
+    },
+    {
+        "teamId": null,
+        "name": "Team Xpro",
+        "status": null,
+        "country": "",
+        "institution": "Ajay Kumar Garg Engineering College, Ghaziabad"
+    },
+    {
+        "teamId": null,
+        "name": "Algineer",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Manipur"
+    },
+    {
+        "teamId": null,
+        "name": "YTC Cataclyst",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Tiruchirappalli"
+    },
+    {
+        "teamId": null,
+        "name": "Right Angled Triangle",
+        "status": null,
+        "country": "",
+        "institution": "VNR Vignana Jyothi Institute of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "SeePee",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "ShunyaKernal",
+        "status": null,
+        "country": "",
+        "institution": "University of Petroleum and Energy Studies"
+    },
+    {
+        "teamId": null,
+        "name": "CriticalX",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Sri City, Chittoor"
+    },
+    {
+        "teamId": null,
+        "name": "GoDiddy",
+        "status": null,
+        "country": "",
+        "institution": "Netaji Subhas University Of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "CAT",
+        "status": null,
+        "country": "",
+        "institution": "BITS-Pilani, Goa Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Compilix",
+        "status": null,
+        "country": "",
+        "institution": "Swami Vivekananda Yoga Anusandhana Samsthana"
+    },
+    {
+        "teamId": null,
+        "name": "APK.apk",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "Stone",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "optimus",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "RunTime Terror",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "team 520",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "Crisp",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Allahabad "
+    },
+    {
+        "teamId": null,
+        "name": "Code Wizards",
+        "status": null,
+        "country": "",
+        "institution": "Thakur College of Engineering and Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Lazzies",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "retiredx3",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "The141",
+        "status": null,
+        "country": "",
+        "institution": "Jaypee Institute of Information Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Angel Coders",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology - Agartala"
+    },
+    {
+        "teamId": null,
+        "name": "Three-core",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham Mysuru Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Triple OG",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "BruteForce Survivors",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "Behen Coders",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "Epitome.cpp",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "Game of Nodes",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "RamBharose",
+        "status": null,
+        "country": "",
+        "institution": "Dayananda Sagar College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "XORcists",
+        "status": null,
+        "country": "",
+        "institution": "Dayananda Sagar College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "WAonPretest1",
+        "status": null,
+        "country": "",
+        "institution": "Dayananda Sagar College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "BruteForce",
+        "status": null,
+        "country": "",
+        "institution": "S.B. Jain Institute of Technology Management & Research"
+    },
+    {
+        "teamId": null,
+        "name": "ZAV_CODERS",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "CodeWarrior",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Una"
+    },
+    {
+        "teamId": null,
+        "name": "DAUOO",
+        "status": null,
+        "country": "",
+        "institution": "International Institute of Information Technology - Naya Raipur"
+    },
+    {
+        "teamId": null,
+        "name": "1e9_plus_7",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology - Agartala"
+    },
+    {
+        "teamId": null,
+        "name": "vorp",
+        "status": null,
+        "country": "",
+        "institution": "Veermata Jijabai Technological Institute"
+    },
+    {
+        "teamId": null,
+        "name": "The Big Three",
+        "status": null,
+        "country": "",
+        "institution": "S.B. Jain Institute of Technology Management & Research"
+    },
+    {
+        "teamId": null,
+        "name": "Monster Trio",
+        "status": null,
+        "country": "",
+        "institution": "S.B. Jain Institute of Technology Management & Research"
+    },
+    {
+        "teamId": null,
+        "name": "icey peicy",
+        "status": null,
+        "country": "",
+        "institution": "Chandigarh University"
+    },
+    {
+        "teamId": null,
+        "name": "Twenchy_k_momos",
+        "status": null,
+        "country": "",
+        "institution": "Graphic Era University"
+    },
+    {
+        "teamId": null,
+        "name": "SetBits111",
+        "status": null,
+        "country": "",
+        "institution": "Ajay Kumar garg engineering college"
+    },
+    {
+        "teamId": null,
+        "name": "Koyna Express",
+        "status": null,
+        "country": "",
+        "institution": "Walchand College of Engineering, Sangli"
+    },
+    {
+        "teamId": null,
+        "name": "Malai Chaap Extra Masala",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Roorkee"
+    },
+    {
+        "teamId": null,
+        "name": "Unknown_coders",
+        "status": null,
+        "country": "",
+        "institution": "Galgotias University"
+    },
+    {
+        "teamId": null,
+        "name": "Phoenix",
+        "status": null,
+        "country": "",
+        "institution": "Vardhaman College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Flash",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Guwahati"
+    },
+    {
+        "teamId": null,
+        "name": "TriMatrixx",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham Mysuru Campus"
+    },
+    {
+        "teamId": null,
+        "name": "The Seniors",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "Div-0",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "Zenith",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "Chokers",
+        "status": null,
+        "country": "",
+        "institution": "Punjab Engineering College Chandigarh"
+    },
+    {
+        "teamId": null,
+        "name": "Idly Sambar",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Roorkee"
+    },
+    {
+        "teamId": null,
+        "name": "Code Commandos",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "Incompetent",
+        "status": null,
+        "country": "",
+        "institution": "IIIT Vadodara"
+    },
+    {
+        "teamId": null,
+        "name": "Kuch Bhi",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Varanasi"
+    },
+    {
+        "teamId": null,
+        "name": "Eclipse Security",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham Mysuru Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Offbyone",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Tiruchirappalli"
+    },
+    {
+        "teamId": null,
+        "name": "Ragnarok",
+        "status": null,
+        "country": "",
+        "institution": "Chennai Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "CHK",
+        "status": null,
+        "country": "",
+        "institution": "B. M. S. College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "3Ds",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology,Una"
+    },
+    {
+        "teamId": null,
+        "name": "std::__builtin_orz",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Kottayam"
+    },
+    {
+        "teamId": null,
+        "name": "coding noobs",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "Shinnosuke",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "iitLongowal",
+        "status": null,
+        "country": "",
+        "institution": "Sant Longowal Institute of Engineering and Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Binary Three",
+        "status": null,
+        "country": "",
+        "institution": "Sant Longowal Institute of Engineering and Technology"
+    },
+    {
+        "teamId": null,
+        "name": "404_ErrorNotFound",
+        "status": null,
+        "country": "",
+        "institution": "S.B. Jain Institute of Technology Management & Research"
+    },
+    {
+        "teamId": null,
+        "name": "YST Hackers",
+        "status": null,
+        "country": "",
+        "institution": "S.B. Jain Institute of Technology Management & Research"
+    },
+    {
+        "teamId": null,
+        "name": "Cache us if you can",
+        "status": null,
+        "country": "",
+        "institution": "Sri Sivasubramaniya Nadar College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "O(m)",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Kollam"
+    },
+    {
+        "teamId": null,
+        "name": "BITMASK",
+        "status": null,
+        "country": "",
+        "institution": "Shri Ramdeobaba College of Engineering and Management, Nagpur"
+    },
+    {
+        "teamId": null,
+        "name": "CODE CRUSADORS",
+        "status": null,
+        "country": "",
+        "institution": "SRM Institute of Science and Technology"
+    },
+    {
+        "teamId": null,
+        "name": "theOGteam",
+        "status": null,
+        "country": "",
+        "institution": "Pandit Deendayal Energy University"
+    },
+    {
+        "teamId": null,
+        "name": "Last_dance",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "Code Conquerers",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Tiruchirappalli"
+    },
+    {
+        "teamId": null,
+        "name": "Algoyoddhaa",
+        "status": null,
+        "country": "",
+        "institution": "Netaji Subhas University Of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "AlphaCode",
+        "status": null,
+        "country": "",
+        "institution": "Nirma University"
+    },
+    {
+        "teamId": null,
+        "name": "CodeCerb3r",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Computing, Coimbatore"
+    },
+    {
+        "teamId": null,
+        "name": " Campa_Cola",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Varanasi"
+    },
+    {
+        "teamId": null,
+        "name": "Backtrackers",
+        "status": null,
+        "country": "",
+        "institution": "Pune Institute of Computer Technology"
+    },
+    {
+        "teamId": null,
+        "name": "cpholic",
+        "status": null,
+        "country": "",
+        "institution": "Indira Gandhi Delhi Technical University for Women"
+    },
+    {
+        "teamId": null,
+        "name": "LastFight",
+        "status": null,
+        "country": "",
+        "institution": "BIT Sindri"
+    },
+    {
+        "teamId": null,
+        "name": "Delta Coders",
+        "status": null,
+        "country": "",
+        "institution": "BIT Sindri"
+    },
+    {
+        "teamId": null,
+        "name": "Team ACV ",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering, Pune"
+    },
+    {
+        "teamId": null,
+        "name": "Semicolon Survivors",
+        "status": null,
+        "country": "",
+        "institution": "Pune Institute of Computer Technology"
+    },
+    {
+        "teamId": null,
+        "name": "3pointer",
+        "status": null,
+        "country": "",
+        "institution": "Dronacharya College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "RSDcoders",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University"
+    },
+    {
+        "teamId": null,
+        "name": "ALL_IN",
+        "status": null,
+        "country": "",
+        "institution": "Harcourt Butler Technical University, Kanpur"
+    },
+    {
+        "teamId": null,
+        "name": "Byte Brawl",
+        "status": null,
+        "country": "",
+        "institution": "Sri Eshwar College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "AlgoRisers",
+        "status": null,
+        "country": "",
+        "institution": "Anurag University"
+    },
+    {
+        "teamId": null,
+        "name": "#include MSK",
+        "status": null,
+        "country": "",
+        "institution": "Sri Eshwar College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Gvp",
+        "status": null,
+        "country": "",
+        "institution": "Gayatri Vidya Parishad College of Engineering, Visakhapatnam"
+    },
+    {
+        "teamId": null,
+        "name": "The Holy Trie-Nity",
+        "status": null,
+        "country": "",
+        "institution": "IIT Bhubaneswar"
+    },
+    {
+        "teamId": null,
+        "name": "Code Titans",
+        "status": null,
+        "country": "",
+        "institution": "Chandubhai S. Patel Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Bits N' Bytes",
+        "status": null,
+        "country": "",
+        "institution": "Rajarshi Shahu College of Engineering, Pune"
+    },
+    {
+        "teamId": null,
+        "name": "turing_complete666",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "SYNAPSE",
+        "status": null,
+        "country": "",
+        "institution": "SRM Institute of Science and Technology"
+    },
+    {
+        "teamId": null,
+        "name": "SAS",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Una"
+    },
+    {
+        "teamId": null,
+        "name": "VETRI",
+        "status": null,
+        "country": "",
+        "institution": "SRM Institute of Science and Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Perceptiiit",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Kalyani"
+    },
+    {
+        "teamId": null,
+        "name": "Return 1",
+        "status": null,
+        "country": "",
+        "institution": "Chennai Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Demo Debuggers",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham Mysuru Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Bit By Bit",
+        "status": null,
+        "country": "",
+        "institution": "KIET GROUP OF INSTITUTIONS"
+    },
+    {
+        "teamId": null,
+        "name": "Alphageeks",
+        "status": null,
+        "country": "",
+        "institution": "Government College of Engineering, Karad"
+    },
+    {
+        "teamId": null,
+        "name": "RuntimeRakshas",
+        "status": null,
+        "country": "",
+        "institution": "Punjab Engineering College Chandigarh"
+    },
+    {
+        "teamId": null,
+        "name": "OUT_OF_BOUNDS",
+        "status": null,
+        "country": "",
+        "institution": "CMR College of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Turbo Techies",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Guwahati"
+    },
+    {
+        "teamId": null,
+        "name": "Binary Fetch",
+        "status": null,
+        "country": "",
+        "institution": "Thadomal Shahani Engineering College"
+    },
+    {
+        "teamId": null,
+        "name": "Bug Busters",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "while(true)",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Kottayam"
+    },
+    {
+        "teamId": null,
+        "name": "Algae",
+        "status": null,
+        "country": "",
+        "institution": "BIT Sindri"
+    },
+    {
+        "teamId": null,
+        "name": "Bytes7",
+        "status": null,
+        "country": "",
+        "institution": "All India Shri Shivaji Memorial Society's Institute of Information Technology Pune"
+    },
+    {
+        "teamId": null,
+        "name": "Bro code",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Chennai"
+    },
+    {
+        "teamId": null,
+        "name": "easypeasy",
+        "status": null,
+        "country": "",
+        "institution": "ALL INDIA SHRI SHIVAJI MEMORIAL SOCIETY COLLEGE OF ENGINEERING PUNE"
+    },
+    {
+        "teamId": null,
+        "name": "Pretest Passed",
+        "status": null,
+        "country": "",
+        "institution": "Pune Institute of Computer Technology"
+    },
+    {
+        "teamId": null,
+        "name": "turing_complete_v2",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "NullPtr",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham"
+    },
+    {
+        "teamId": null,
+        "name": "CoDeC VAN",
+        "status": null,
+        "country": "",
+        "institution": "Dr. Vishwanath Karad MIT World Peace University"
+    },
+    {
+        "teamId": null,
+        "name": "Heap Coders",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Guwahati"
+    },
+    {
+        "teamId": null,
+        "name": "3_Sum",
+        "status": null,
+        "country": "",
+        "institution": "Vivekanand Education Society's Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Byte Coders",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Guwahati"
+    },
+    {
+        "teamId": null,
+        "name": "3-Byte",
+        "status": null,
+        "country": "",
+        "institution": "Pandit Deendayal Energy University"
+    },
+    {
+        "teamId": null,
+        "name": "SIGTERM",
+        "status": null,
+        "country": "",
+        "institution": "Harcourt Butler Technical University, Kanpur"
+    },
+    {
+        "teamId": null,
+        "name": "Segmentation Fault ",
+        "status": null,
+        "country": "",
+        "institution": "Narula Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "SpeedyGreedy",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Patna"
+    },
+    {
+        "teamId": null,
+        "name": "See++",
+        "status": null,
+        "country": "",
+        "institution": "Chennai Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "aye aye aye tea dilli",
+        "status": null,
+        "country": "",
+        "institution": "IIIT-Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "Missing Semicolon",
+        "status": null,
+        "country": "",
+        "institution": "Chennai Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "ZeroDay_Titans",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering, Pune"
+    },
+    {
+        "teamId": null,
+        "name": "BitByte",
+        "status": null,
+        "country": "",
+        "institution": "Ajay Kumar Garg Engineering College, Ghaziabad"
+    },
+    {
+        "teamId": null,
+        "name": "Aura_bits",
+        "status": null,
+        "country": "",
+        "institution": "PSG Institute of Technology and Applied Research"
+    },
+    {
+        "teamId": null,
+        "name": "Losers",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Tiruchirappalli"
+    },
+    {
+        "teamId": null,
+        "name": "Akatsuki",
+        "status": null,
+        "country": "",
+        "institution": "Harcourt Butler Technical University, Kanpur"
+    },
+    {
+        "teamId": null,
+        "name": "Stellar",
+        "status": null,
+        "country": "",
+        "institution": "LDRP Institute of Technology and Research"
+    },
+    {
+        "teamId": null,
+        "name": "locho",
+        "status": null,
+        "country": "",
+        "institution": "Dharmsinh Desai Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "VU - Tourist",
+        "status": null,
+        "country": "",
+        "institution": "Vignan University, Guntur"
+    },
+    {
+        "teamId": null,
+        "name": "Bit-By-Bit coders",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Warangal"
+    },
+    {
+        "teamId": null,
+        "name": "RuntimeRDX",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Patna"
+    },
+    {
+        "teamId": null,
+        "name": "Void Arc",
+        "status": null,
+        "country": "",
+        "institution": "Swami Vivekananda Yoga Anusandhana Samsthana"
+    },
+    {
+        "teamId": null,
+        "name": "PretestOne",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University"
+    },
+    {
+        "teamId": null,
+        "name": "vecTOR",
+        "status": null,
+        "country": "",
+        "institution": "Sant Longowal Institute of Engineering and Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Settled_Buyers",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Kottayam"
+    },
+    {
+        "teamId": null,
+        "name": "3 Error",
+        "status": null,
+        "country": "",
+        "institution": "Harcourt Butler Technical University, Kanpur"
+    },
+    {
+        "teamId": null,
+        "name": "Binary Brains",
+        "status": null,
+        "country": "",
+        "institution": "Harcourt Butler Technical University, Kanpur"
+    },
+    {
+        "teamId": null,
+        "name": "Voldemort",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Roorkee"
+    },
+    {
+        "teamId": null,
+        "name": "Hard Coders",
+        "status": null,
+        "country": "",
+        "institution": "Veermata Jijabai Technological Institute"
+    },
+    {
+        "teamId": null,
+        "name": "1E9+7",
+        "status": null,
+        "country": "",
+        "institution": "SRM Institute of Science and Technology"
+    },
+    {
+        "teamId": null,
+        "name": "TLE Terminators",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "KHAOS",
+        "status": null,
+        "country": "",
+        "institution": "Rishihood University"
+    },
+    {
+        "teamId": null,
+        "name": "Straw Hats",
+        "status": null,
+        "country": "",
+        "institution": "VNR Vignana Jyothi Institute of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "BitByBitSNU",
+        "status": null,
+        "country": "",
+        "institution": "Shiv Nadar University Chennai"
+    },
+    {
+        "teamId": null,
+        "name": "CP PAGLU",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "Brain_Hit_Bandits",
+        "status": null,
+        "country": "",
+        "institution": "Motilal Nehru National Institute of Technology - Allahabad"
+    },
+    {
+        "teamId": null,
+        "name": "GreedyVPN",
+        "status": null,
+        "country": "",
+        "institution": "Shiv Nadar University Chennai"
+    },
+    {
+        "teamId": null,
+        "name": "69th Bit",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University"
+    },
+    {
+        "teamId": null,
+        "name": "Innovatorss",
+        "status": null,
+        "country": "",
+        "institution": "Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar"
+    },
+    {
+        "teamId": null,
+        "name": "Chill_Guys",
+        "status": null,
+        "country": "",
+        "institution": "Birla Institute of Technology and Science, Pilani Campus"
+    },
+    {
+        "teamId": null,
+        "name": "CreepyCats++",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Bombay"
+    },
+    {
+        "teamId": null,
+        "name": "Qwerty Pies",
+        "status": null,
+        "country": "",
+        "institution": "Maharaja Agrasen Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Code_404",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University"
+    },
+    {
+        "teamId": null,
+        "name": "sudo_rm_rf_/dreams",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology, Madras"
+    },
+    {
+        "teamId": null,
+        "name": "subTLE",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology, Madras"
+    },
+    {
+        "teamId": null,
+        "name": "CP_ACE",
+        "status": null,
+        "country": "",
+        "institution": "Atharva College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Namaste World",
+        "status": null,
+        "country": "",
+        "institution": "Nirma University"
+    },
+    {
+        "teamId": null,
+        "name": "RRS_DTU",
+        "status": null,
+        "country": "",
+        "institution": "Delhi Technological University(Formerly DCE)"
+    },
+    {
+        "teamId": null,
+        "name": "The Last Iteration",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "Problem_Explorers",
+        "status": null,
+        "country": "",
+        "institution": "Rishihood University"
+    },
+    {
+        "teamId": null,
+        "name": "CODEMANIA",
+        "status": null,
+        "country": "",
+        "institution": "Xavier Institute of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Prime Suspects",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Kottayam"
+    },
+    {
+        "teamId": null,
+        "name": "Bitwise Brothers",
+        "status": null,
+        "country": "",
+        "institution": "MBM University, Jodhpur"
+    },
+    {
+        "teamId": null,
+        "name": "Codex Obscura",
+        "status": null,
+        "country": "",
+        "institution": "Delhi Skill and Entrepreneurship University Okhla-1"
+    },
+    {
+        "teamId": null,
+        "name": "Akshar",
+        "status": null,
+        "country": "",
+        "institution": "Delhi Skill and Entrepreneurship University Okhla-1"
+    },
+    {
+        "teamId": null,
+        "name": "transformers_2006",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "nahi_batayenge",
+        "status": null,
+        "country": "",
+        "institution": "Rishihood University"
+    },
+    {
+        "teamId": null,
+        "name": "Trident ",
+        "status": null,
+        "country": "",
+        "institution": "Swami Vivekananda Yoga Anusandhana Samsthana"
+    },
+    {
+        "teamId": null,
+        "name": "tripleH",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Patna"
+    },
+    {
+        "teamId": null,
+        "name": "BigBrainBoyz",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Bhopal"
+    },
+    {
+        "teamId": null,
+        "name": "Sig-abrt",
+        "status": null,
+        "country": "",
+        "institution": "Bennett University"
+    },
+    {
+        "teamId": null,
+        "name": "Penguins",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "in_queue",
+        "status": null,
+        "country": "",
+        "institution": "Kalinga Institute Of Industrial Technology,Bhubaneswar"
+    },
+    {
+        "teamId": null,
+        "name": "CODEBLOODED",
+        "status": null,
+        "country": "",
+        "institution": "Jaypee Institute of Information Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Triple S",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "Himalayan Cyphers",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Hamirpur"
+    },
+    {
+        "teamId": null,
+        "name": "Untitled",
+        "status": null,
+        "country": "",
+        "institution": "International Institute of Information Technology Bhubaneswar"
+    },
+    {
+        "teamId": null,
+        "name": "Infinite loop",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Tiruchirappalli"
+    },
+    {
+        "teamId": null,
+        "name": "ICU",
+        "status": null,
+        "country": "",
+        "institution": "KIET GROUP OF INSTITUTIONS"
+    },
+    {
+        "teamId": null,
+        "name": "Weak Testcase",
+        "status": null,
+        "country": "",
+        "institution": "IIIT-Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "The Sidekicks",
+        "status": null,
+        "country": "",
+        "institution": "IIIT-Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "Codebusters",
+        "status": null,
+        "country": "",
+        "institution": "IIIT-Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "taispmoiclfrbrurntshkspr",
+        "status": null,
+        "country": "",
+        "institution": "IIIT-Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "Avinya",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering, Pune"
+    },
+    {
+        "teamId": null,
+        "name": "crackforce",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering, Pune"
+    },
+    {
+        "teamId": null,
+        "name": "Failedpretest2",
+        "status": null,
+        "country": "",
+        "institution": "IIIT-Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "O(N-cube)",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham"
+    },
+    {
+        "teamId": null,
+        "name": "kyun_batayen",
+        "status": null,
+        "country": "",
+        "institution": "Rishihood University"
+    },
+    {
+        "teamId": null,
+        "name": "Mata Rani Ke Sher",
+        "status": null,
+        "country": "",
+        "institution": "Ajay Kumar Garg Engineering College, Ghaziabad"
+    },
+    {
+        "teamId": null,
+        "name": "subtasks here",
+        "status": null,
+        "country": "",
+        "institution": "IIIT-Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "Kasukabe Defence Force",
+        "status": null,
+        "country": "",
+        "institution": "IIIT-Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "noob_coders",
+        "status": null,
+        "country": "",
+        "institution": "IIIT-Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "KDG",
+        "status": null,
+        "country": "",
+        "institution": "IIIT-Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "NKMify",
+        "status": null,
+        "country": "",
+        "institution": "IIIT-Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "Burrata",
+        "status": null,
+        "country": "",
+        "institution": "International Institute of Information Technology Bhubaneswar"
+    },
+    {
+        "teamId": null,
+        "name": "Avengers_endgame",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "LLMAO",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Patna"
+    },
+    {
+        "teamId": null,
+        "name": "Logic Crafters",
+        "status": null,
+        "country": "",
+        "institution": "VNR Vignana Jyothi Institute of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "vibecoders007",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology, Madras"
+    },
+    {
+        "teamId": null,
+        "name": "1e9+7",
+        "status": null,
+        "country": "",
+        "institution": "School of Engineering and Applied Science, Ahmedabad University"
+    },
+    {
+        "teamId": null,
+        "name": "TrikonDrishti",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Patna"
+    },
+    {
+        "teamId": null,
+        "name": "Bellman's Baingan",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology, Madras"
+    },
+    {
+        "teamId": null,
+        "name": "JioNet@NIT",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology - Agartala"
+    },
+    {
+        "teamId": null,
+        "name": "Learners",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Chennai"
+    },
+    {
+        "teamId": null,
+        "name": "Seizure salad",
+        "status": null,
+        "country": "",
+        "institution": "Vellore Institute of Technology, Chennai"
+    },
+    {
+        "teamId": null,
+        "name": "Can't Decide A Name",
+        "status": null,
+        "country": "",
+        "institution": "COEP Technological University"
+    },
+    {
+        "teamId": null,
+        "name": "TheInsignificant_Bit",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University"
+    },
+    {
+        "teamId": null,
+        "name": "binary_coders",
+        "status": null,
+        "country": "",
+        "institution": "Rishihood University"
+    },
+    {
+        "teamId": null,
+        "name": "nC3",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology, Madras"
+    },
+    {
+        "teamId": null,
+        "name": "Meow",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology, Madras"
+    },
+    {
+        "teamId": null,
+        "name": "King's Gambit",
+        "status": null,
+        "country": "",
+        "institution": "Thadomal Shahani Engineering College"
+    },
+    {
+        "teamId": null,
+        "name": "Code Clasher",
+        "status": null,
+        "country": "",
+        "institution": "Dronacharya College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Catalyst",
+        "status": null,
+        "country": "",
+        "institution": "International Institute of Information Technology Bhubaneswar"
+    },
+    {
+        "teamId": null,
+        "name": "Labubus",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology, Madras"
+    },
+    {
+        "teamId": null,
+        "name": "Inversions",
+        "status": null,
+        "country": "",
+        "institution": "Graphic Era Hill University"
+    },
+    {
+        "teamId": null,
+        "name": "Heart",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "Fatal Force",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "Delta",
+        "status": null,
+        "country": "",
+        "institution": "VNR Vignana Jyothi Institute of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "48 marks",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "we-cook-bro",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Computing, Coimbatore"
+    },
+    {
+        "teamId": null,
+        "name": "Code Samurai",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham Mysuru Campus"
+    },
+    {
+        "teamId": null,
+        "name": "divided by zero",
+        "status": null,
+        "country": "",
+        "institution": "BITS-Pilani, Goa Campus"
+    },
+    {
+        "teamId": null,
+        "name": "BITS/std",
+        "status": null,
+        "country": "",
+        "institution": "BITS-Pilani, Goa Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Mogambo_Khush_Hua",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology, Madras"
+    },
+    {
+        "teamId": null,
+        "name": "The Hurdles",
+        "status": null,
+        "country": "",
+        "institution": "KIET GROUP OF INSTITUTIONS"
+    },
+    {
+        "teamId": null,
+        "name": "Innovators",
+        "status": null,
+        "country": "",
+        "institution": "Pandit Deendayal Energy University"
+    },
+    {
+        "teamId": null,
+        "name": "SAY My Name",
+        "status": null,
+        "country": "",
+        "institution": "BITS-Pilani, Goa Campus"
+    },
+    {
+        "teamId": null,
+        "name": "codeblooded",
+        "status": null,
+        "country": "",
+        "institution": "Rishihood University"
+    },
+    {
+        "teamId": null,
+        "name": "BudMag",
+        "status": null,
+        "country": "",
+        "institution": "BITS-Pilani, Goa Campus"
+    },
+    {
+        "teamId": null,
+        "name": "codeforcespaglu",
+        "status": null,
+        "country": "",
+        "institution": "BITS-Pilani, Goa Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Huggiieez",
+        "status": null,
+        "country": "",
+        "institution": "BITS-Pilani, Goa Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Sky is the limit",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology, Madras"
+    },
+    {
+        "teamId": null,
+        "name": "sort(mylife)",
+        "status": null,
+        "country": "",
+        "institution": "BITS-Pilani, Goa Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Algonuts",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College Of Engineering and Research, Pune"
+    },
+    {
+        "teamId": null,
+        "name": "The_Lazy_three",
+        "status": null,
+        "country": "",
+        "institution": "KIET GROUP OF INSTITUTIONS"
+    },
+    {
+        "teamId": null,
+        "name": "!404 Code Found",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology, Madras"
+    },
+    {
+        "teamId": null,
+        "name": "3 Coders",
+        "status": null,
+        "country": "",
+        "institution": "VIT Bhopal University"
+    },
+    {
+        "teamId": null,
+        "name": "BogoSearchTree",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology, Madras"
+    },
+    {
+        "teamId": null,
+        "name": "ZetaMind",
+        "status": null,
+        "country": "",
+        "institution": "PES University"
+    },
+    {
+        "teamId": null,
+        "name": "wassup_dude",
+        "status": null,
+        "country": "",
+        "institution": "Lakshmi narain college of technology,bhopal"
+    },
+    {
+        "teamId": null,
+        "name": "Asteroid Destroyers",
+        "status": null,
+        "country": "",
+        "institution": "VNR Vignana Jyothi Institute of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "JMD1",
+        "status": null,
+        "country": "",
+        "institution": "BITS-Pilani, Goa Campus"
+    },
+    {
+        "teamId": null,
+        "name": "The CS Conglomerate",
+        "status": null,
+        "country": "",
+        "institution": "BITS-Pilani, Goa Campus"
+    },
+    {
+        "teamId": null,
+        "name": "VersionZero",
+        "status": null,
+        "country": "",
+        "institution": "BITS-Pilani, Goa Campus"
+    },
+    {
+        "teamId": null,
+        "name": "PECuliar Punjabi ",
+        "status": null,
+        "country": "",
+        "institution": "Punjab Engineering College Chandigarh"
+    },
+    {
+        "teamId": null,
+        "name": "Codeblooded",
+        "status": null,
+        "country": "",
+        "institution": "Aditya Engineering College"
+    },
+    {
+        "teamId": null,
+        "name": "CodeBlooded",
+        "status": null,
+        "country": "",
+        "institution": "G.H. Raisoni College of Engineering and Management, Pune"
+    },
+    {
+        "teamId": null,
+        "name": "O(1)",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "Gandhi ke bandar",
+        "status": null,
+        "country": "",
+        "institution": "Birla Institute of Technology and Science, Pilani Campus"
+    },
+    {
+        "teamId": null,
+        "name": "BITSinister",
+        "status": null,
+        "country": "",
+        "institution": "BITS-Pilani, Goa Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Quadbriks",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "Hello_ICPC",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology (ISM), Dhanbad"
+    },
+    {
+        "teamId": null,
+        "name": "TRIEfecta",
+        "status": null,
+        "country": "",
+        "institution": "M.S. Ramaiah Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "coutvvv",
+        "status": null,
+        "country": "",
+        "institution": "Thadomal Shahani Engineering College"
+    },
+    {
+        "teamId": null,
+        "name": "OG_Strikes_back",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "Algo Ternary",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "KARBON",
+        "status": null,
+        "country": "",
+        "institution": "Rishihood University"
+    },
+    {
+        "teamId": null,
+        "name": "RuntimeError",
+        "status": null,
+        "country": "",
+        "institution": "Ramkrishna Mahato Government Engineering College"
+    },
+    {
+        "teamId": null,
+        "name": "Error_404",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "expected ';' before '}' token",
+        "status": null,
+        "country": "",
+        "institution": "Netaji Subhas University Of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Icemen",
+        "status": null,
+        "country": "",
+        "institution": "Thapar Institute of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Stardust Coders",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute Of Technology Jodhpur "
+    },
+    {
+        "teamId": null,
+        "name": "Athree50",
+        "status": null,
+        "country": "",
+        "institution": "Thapar Institute of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Code_Blooded",
+        "status": null,
+        "country": "",
+        "institution": "Thapar Institute of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "bitwise_operators",
+        "status": null,
+        "country": "",
+        "institution": "Thapar Institute of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "weakLiLmagikarps",
+        "status": null,
+        "country": "",
+        "institution": "Motilal Nehru National Institute of Technology - Allahabad"
+    },
+    {
+        "teamId": null,
+        "name": "Hello_World",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "HammerTime",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Engineering Science and Technology, Shibpur"
+    },
+    {
+        "teamId": null,
+        "name": "IGainValues",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute Of Technology Jodhpur "
+    },
+    {
+        "teamId": null,
+        "name": "godeaters",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Varanasi"
+    },
+    {
+        "teamId": null,
+        "name": "MATRIX 404",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Varanasi"
+    },
+    {
+        "teamId": null,
+        "name": "STRAW HAT",
+        "status": null,
+        "country": "",
+        "institution": "Shri Ramdeobaba College of Engineering and Management, Nagpur"
+    },
+    {
+        "teamId": null,
+        "name": "NewBies",
+        "status": null,
+        "country": "",
+        "institution": "IIT Bhubaneswar"
+    },
+    {
+        "teamId": null,
+        "name": "Bit Coders",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Una"
+    },
+    {
+        "teamId": null,
+        "name": "Expecto Patronum",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Patna"
+    },
+    {
+        "teamId": null,
+        "name": "3M",
+        "status": null,
+        "country": "",
+        "institution": "Vellore Institute of Technology, Chennai"
+    },
+    {
+        "teamId": null,
+        "name": "if(accepted=1)",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University"
+    },
+    {
+        "teamId": null,
+        "name": "Ctrl Alt Defeat",
+        "status": null,
+        "country": "",
+        "institution": "Harcourt Butler Technical University, Kanpur"
+    },
+    {
+        "teamId": null,
+        "name": "phirse lite lo",
+        "status": null,
+        "country": "",
+        "institution": "Birla Institute of Technology and Science, Pilani Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Git_gud",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "Ec_warriors",
+        "status": null,
+        "country": "",
+        "institution": "Motilal Nehru National Institute of Technology - Allahabad"
+    },
+    {
+        "teamId": null,
+        "name": "SMH",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "Why_are_you_grey",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Kurukshetra"
+    },
+    {
+        "teamId": null,
+        "name": "ProteinShake",
+        "status": null,
+        "country": "",
+        "institution": "Dayananda Sagar College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "TernaryCoders",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "Chaha++",
+        "status": null,
+        "country": "",
+        "institution": "Pune Institute of Computer Technology"
+    },
+    {
+        "teamId": null,
+        "name": "idK",
+        "status": null,
+        "country": "",
+        "institution": "International Institute of Information Technology - Naya Raipur"
+    },
+    {
+        "teamId": null,
+        "name": "Bio Hazard",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Bombay"
+    },
+    {
+        "teamId": null,
+        "name": "rm -rf /teams",
+        "status": null,
+        "country": "",
+        "institution": "BITS-Pilani, Hyderabad Campus"
+    },
+    {
+        "teamId": null,
+        "name": "null pointers",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Warangal"
+    },
+    {
+        "teamId": null,
+        "name": "WhileNezukoInBox",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology (ISM), Dhanbad"
+    },
+    {
+        "teamId": null,
+        "name": "Kuchh bhi",
+        "status": null,
+        "country": "",
+        "institution": "INDIAN INSTITUTE OF INFORMATION TECHNOLOGY RANCHI"
+    },
+    {
+        "teamId": null,
+        "name": "BSTle",
+        "status": null,
+        "country": "",
+        "institution": "Birla Institute of Technology and Science, Pilani Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Three Pointers",
+        "status": null,
+        "country": "",
+        "institution": "BITS-Pilani, Hyderabad Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Code Blitz",
+        "status": null,
+        "country": "",
+        "institution": "KIET GROUP OF INSTITUTIONS"
+    },
+    {
+        "teamId": null,
+        "name": "Autistic",
+        "status": null,
+        "country": "",
+        "institution": "JSS Academy Of Technical Education"
+    },
+    {
+        "teamId": null,
+        "name": "TimedBuffer",
+        "status": null,
+        "country": "",
+        "institution": "Birla Institute of Technology and Science, Pilani Campus"
+    },
+    {
+        "teamId": null,
+        "name": "GRiDDY",
+        "status": null,
+        "country": "",
+        "institution": "Birla Institute of Technology and Science, Pilani Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Aura++",
+        "status": null,
+        "country": "",
+        "institution": "Birla Institute of Technology and Science, Pilani Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Low IQ",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Surat"
+    },
+    {
+        "teamId": null,
+        "name": "riskyBits",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Surat"
+    },
+    {
+        "teamId": null,
+        "name": "NEWBIES",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Surat"
+    },
+    {
+        "teamId": null,
+        "name": "HOPE",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Surat"
+    },
+    {
+        "teamId": null,
+        "name": "Buffer",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Surat"
+    },
+    {
+        "teamId": null,
+        "name": "Pixar",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Surat"
+    },
+    {
+        "teamId": null,
+        "name": "WeCPC",
+        "status": null,
+        "country": "",
+        "institution": "Starex University"
+    },
+    {
+        "teamId": null,
+        "name": "ARATAS",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University"
+    },
+    {
+        "teamId": null,
+        "name": "CtrlC_CtrlV",
+        "status": null,
+        "country": "",
+        "institution": "Birla Institute of Technology and Science, Pilani Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Mavericks",
+        "status": null,
+        "country": "",
+        "institution": "JSS Academy Of Technical Education"
+    },
+    {
+        "teamId": null,
+        "name": "KSA",
+        "status": null,
+        "country": "",
+        "institution": "Birla Institute of Technology and Science, Pilani Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Executors",
+        "status": null,
+        "country": "",
+        "institution": "Graphic Era Hill University"
+    },
+    {
+        "teamId": null,
+        "name": "Abstract Programmers",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute Of Technology Jodhpur "
+    },
+    {
+        "teamId": null,
+        "name": "Code Blasters",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute Of Technology Jodhpur "
+    },
+    {
+        "teamId": null,
+        "name": "DoraTheDebugger",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute Of Technology Jodhpur "
+    },
+    {
+        "teamId": null,
+        "name": "return1",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute Of Technology Jodhpur "
+    },
+    {
+        "teamId": null,
+        "name": "Bhondu",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute Of Technology Jodhpur "
+    },
+    {
+        "teamId": null,
+        "name": "TBH",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "OSgrp12___",
+        "status": null,
+        "country": "",
+        "institution": "BITS-Pilani, Goa Campus"
+    },
+    {
+        "teamId": null,
+        "name": "APEX",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Bombay"
+    },
+    {
+        "teamId": null,
+        "name": "TLE Eliminator",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute Of Technology Jodhpur "
+    },
+    {
+        "teamId": null,
+        "name": "DivideByZero",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "psp",
+        "status": null,
+        "country": "",
+        "institution": "BITS-Pilani, Goa Campus"
+    },
+    {
+        "teamId": null,
+        "name": "The Return of the Fields Medalists",
+        "status": null,
+        "country": "",
+        "institution": "Birla Institute of Technology and Science, Pilani Campus"
+    },
+    {
+        "teamId": null,
+        "name": "ShermaFanClub",
+        "status": null,
+        "country": "",
+        "institution": "IIIT-Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "Iseepsee",
+        "status": null,
+        "country": "",
+        "institution": "Birla Institute of Technology and Science, Pilani Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Bugcoders ",
+        "status": null,
+        "country": "",
+        "institution": "Visvesvaraya National Institute of Technology, Nagpur"
+    },
+    {
+        "teamId": null,
+        "name": "Binary buddies",
+        "status": null,
+        "country": "",
+        "institution": "Sant Longowal Institute of Engineering and Technology"
+    },
+    {
+        "teamId": null,
+        "name": "The Gambler's Ruin",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "Silent Thrillers",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Tiruchirappalli"
+    },
+    {
+        "teamId": null,
+        "name": "HAMstack",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "Valar Algoris",
+        "status": null,
+        "country": "",
+        "institution": "Nirma University"
+    },
+    {
+        "teamId": null,
+        "name": "Codex01",
+        "status": null,
+        "country": "",
+        "institution": "GLA University, Mathura"
+    },
+    {
+        "teamId": null,
+        "name": "3killObytes",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "Random(3)",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "Divine WA to AC",
+        "status": null,
+        "country": "",
+        "institution": "JIS University"
+    },
+    {
+        "teamId": null,
+        "name": "Code Monks",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Computing, Coimbatore"
+    },
+    {
+        "teamId": null,
+        "name": "whydowecode",
+        "status": null,
+        "country": "",
+        "institution": "Birla Institute of Technology and Science, Pilani Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Nakaabil_Koders",
+        "status": null,
+        "country": "",
+        "institution": "Birla Institute of Technology and Science, Pilani Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Eggzor",
+        "status": null,
+        "country": "",
+        "institution": "Rishihood University"
+    },
+    {
+        "teamId": null,
+        "name": "kuch_bhi_rakhdo",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "S-110",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Silchar"
+    },
+    {
+        "teamId": null,
+        "name": "Jaati Ratnaalu",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "Checkmate",
+        "status": null,
+        "country": "",
+        "institution": "Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar"
+    },
+    {
+        "teamId": null,
+        "name": "Trio",
+        "status": null,
+        "country": "",
+        "institution": "GITAM (Deemed to be University)"
+    },
+    {
+        "teamId": null,
+        "name": "Modulo Meteors",
+        "status": null,
+        "country": "",
+        "institution": "Amity University"
+    },
+    {
+        "teamId": null,
+        "name": "Jai jagannath",
+        "status": null,
+        "country": "",
+        "institution": "INDIAN INSTITUTE OF INFORMATION TECHNOLOGY RANCHI"
+    },
+    {
+        "teamId": null,
+        "name": "10WalaBiscuitKaPacket",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "DP_Dhakad",
+        "status": null,
+        "country": "",
+        "institution": "Ambalika Institute of Management and Technology"
+    },
+    {
+        "teamId": null,
+        "name": "OnlyYou",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "ZeroLatency",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Nagpur"
+    },
+    {
+        "teamId": null,
+        "name": "Greedy3",
+        "status": null,
+        "country": "",
+        "institution": "Delhi Technological University(Formerly DCE)"
+    },
+    {
+        "teamId": null,
+        "name": "Tricode",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Team Silicon",
+        "status": null,
+        "country": "",
+        "institution": "Silicon Institute of Technology, Bhubaneswar"
+    },
+    {
+        "teamId": null,
+        "name": "KingNaitik",
+        "status": null,
+        "country": "",
+        "institution": "IIT Bhubaneswar"
+    },
+    {
+        "teamId": null,
+        "name": "TLECreators",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "Winners",
+        "status": null,
+        "country": "",
+        "institution": "BIT Mesra - Deoghar Campus"
+    },
+    {
+        "teamId": null,
+        "name": "The Trinity",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham"
+    },
+    {
+        "teamId": null,
+        "name": "Chole Bhature",
+        "status": null,
+        "country": "",
+        "institution": "INDIAN INSTITUTE OF INFORMATION TECHNOLOGY RANCHI"
+    },
+    {
+        "teamId": null,
+        "name": "RunTime Terrors",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering, Pune"
+    },
+    {
+        "teamId": null,
+        "name": "Runtime Error",
+        "status": null,
+        "country": "",
+        "institution": "Gayatri Vidya Parishad College of Engineering, Visakhapatnam"
+    },
+    {
+        "teamId": null,
+        "name": "No Bug November",
+        "status": null,
+        "country": "",
+        "institution": "Physics Wallah Institute of Innovation"
+    },
+    {
+        "teamId": null,
+        "name": "SmartStack",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering, Pune"
+    },
+    {
+        "teamId": null,
+        "name": "Sword of the Morning",
+        "status": null,
+        "country": "",
+        "institution": "International Institute of Information Technology (I²IT), Pune"
+    },
+    {
+        "teamId": null,
+        "name": "Modulo 1e9",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Kota"
+    },
+    {
+        "teamId": null,
+        "name": "brahmos",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Senapati, Manipur"
+    },
+    {
+        "teamId": null,
+        "name": "TuringMachine",
+        "status": null,
+        "country": "",
+        "institution": "Atria Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "NullPointer",
+        "status": null,
+        "country": "",
+        "institution": "Bennett University"
+    },
+    {
+        "teamId": null,
+        "name": "Astros",
+        "status": null,
+        "country": "",
+        "institution": "Sri Krishna College of Engineering and Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Avocado",
+        "status": null,
+        "country": "",
+        "institution": "BITS-Pilani, Hyderabad Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Saikapians",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute Of Technology Jodhpur "
+    },
+    {
+        "teamId": null,
+        "name": "PegasusChallengers",
+        "status": null,
+        "country": "",
+        "institution": "International Institute of Information Technology - Naya Raipur"
+    },
+    {
+        "teamId": null,
+        "name": "GareebRath",
+        "status": null,
+        "country": "",
+        "institution": "International Institute of Information Technology - Naya Raipur"
+    },
+    {
+        "teamId": null,
+        "name": "HumaraChatpataTeam",
+        "status": null,
+        "country": "",
+        "institution": "Scaler School of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "PurpleSector3",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Prime Knights",
+        "status": null,
+        "country": "",
+        "institution": "Chennai Mathematical Institute"
+    },
+    {
+        "teamId": null,
+        "name": "GreedyBits",
+        "status": null,
+        "country": "",
+        "institution": "IIIT Vadodara"
+    },
+    {
+        "teamId": null,
+        "name": "Car Bhavani",
+        "status": null,
+        "country": "",
+        "institution": "INDIAN INSTITUTE OF INFORMATION TECHNOLOGY RANCHI"
+    },
+    {
+        "teamId": null,
+        "name": "sybau",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology and Management, Gwalior"
+    },
+    {
+        "teamId": null,
+        "name": "monocarp",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology,  Dharwad"
+    },
+    {
+        "teamId": null,
+        "name": "Schrodinger's  AC",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology Bhilai"
+    },
+    {
+        "teamId": null,
+        "name": "GitGud",
+        "status": null,
+        "country": "",
+        "institution": "Dr. B. C. Roy Engineering College - Durgapur"
+    },
+    {
+        "teamId": null,
+        "name": "Bandits",
+        "status": null,
+        "country": "",
+        "institution": "Jalpaiguri Government Engineering College- Maulana Abul Kalam Azad University of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Gear3",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology Bhilai"
+    },
+    {
+        "teamId": null,
+        "name": "Code Cruisers",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology Bhilai"
+    },
+    {
+        "teamId": null,
+        "name": "Leechere",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology Bhilai"
+    },
+    {
+        "teamId": null,
+        "name": "Infinite Bloopers",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology Bhilai"
+    },
+    {
+        "teamId": null,
+        "name": "Binary brains",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology Bhilai"
+    },
+    {
+        "teamId": null,
+        "name": "CacheUsIfYouCan",
+        "status": null,
+        "country": "",
+        "institution": "K. K. Wagh Institute of Engineering Education and Research, Nashik"
+    },
+    {
+        "teamId": null,
+        "name": "Error 203",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology,  Dharwad"
+    },
+    {
+        "teamId": null,
+        "name": "Segment_Fault",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Silchar"
+    },
+    {
+        "teamId": null,
+        "name": "Code Crusaders ",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology Bhilai"
+    },
+    {
+        "teamId": null,
+        "name": "JaSant",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology Bhilai"
+    },
+    {
+        "teamId": null,
+        "name": "September",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology Bhilai"
+    },
+    {
+        "teamId": null,
+        "name": "Team - Blitz",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology Bhilai"
+    },
+    {
+        "teamId": null,
+        "name": "TechSapiens",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology Bhilai"
+    },
+    {
+        "teamId": null,
+        "name": "Chomsky's Disciples",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology Bhilai"
+    },
+    {
+        "teamId": null,
+        "name": "Pobeditel",
+        "status": null,
+        "country": "",
+        "institution": "IIIT Vadodara"
+    },
+    {
+        "teamId": null,
+        "name": "Triple_Debug",
+        "status": null,
+        "country": "",
+        "institution": "Jalpaiguri Government Engineering College- Maulana Abul Kalam Azad University of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Team TLE",
+        "status": null,
+        "country": "",
+        "institution": "Jalpaiguri Government Engineering College- Maulana Abul Kalam Azad University of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "while(Alive) Code++;",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute Of Technology Jodhpur "
+    },
+    {
+        "teamId": null,
+        "name": "2b||!2b",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology,  Dharwad"
+    },
+    {
+        "teamId": null,
+        "name": "nerf minors",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Patna"
+    },
+    {
+        "teamId": null,
+        "name": "Code-O-Titans",
+        "status": null,
+        "country": "",
+        "institution": "S.B. Jain Institute of Technology Management & Research"
+    },
+    {
+        "teamId": null,
+        "name": " Brain.exe Not Found",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Varanasi"
+    },
+    {
+        "teamId": null,
+        "name": "Mandelbrots ",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Varanasi"
+    },
+    {
+        "teamId": null,
+        "name": "Impost3rs",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Varanasi"
+    },
+    {
+        "teamId": null,
+        "name": "Code_dumped",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "dp_gambit",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University"
+    },
+    {
+        "teamId": null,
+        "name": "OddOneOut",
+        "status": null,
+        "country": "",
+        "institution": "INDIAN INSTITUTE OF INFORMATION TECHNOLOGY RANCHI"
+    },
+    {
+        "teamId": null,
+        "name": "SARcode",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "TLE Triggerers",
+        "status": null,
+        "country": "",
+        "institution": "Sri Eshwar College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Frost",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Bellman No-Ford",
+        "status": null,
+        "country": "",
+        "institution": "Motilal Nehru National Institute of Technology - Allahabad"
+    },
+    {
+        "teamId": null,
+        "name": "Coder Bots",
+        "status": null,
+        "country": "",
+        "institution": "Motilal Nehru National Institute of Technology - Allahabad"
+    },
+    {
+        "teamId": null,
+        "name": "Algo Aces",
+        "status": null,
+        "country": "",
+        "institution": "IIT Bhubaneswar"
+    },
+    {
+        "teamId": null,
+        "name": "Hagimaru",
+        "status": null,
+        "country": "",
+        "institution": "Motilal Nehru National Institute of Technology - Allahabad"
+    },
+    {
+        "teamId": null,
+        "name": "Vimdhayak ji ke log",
+        "status": null,
+        "country": "",
+        "institution": "Motilal Nehru National Institute of Technology - Allahabad"
+    },
+    {
+        "teamId": null,
+        "name": "ANA - ARCHITECT OF NEW AGE",
+        "status": null,
+        "country": "",
+        "institution": "Motilal Nehru National Institute of Technology - Allahabad"
+    },
+    {
+        "teamId": null,
+        "name": "O(n!)",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Tiruchirappalli"
+    },
+    {
+        "teamId": null,
+        "name": "CJython⊕",
+        "status": null,
+        "country": "",
+        "institution": "Motilal Nehru National Institute of Technology - Allahabad"
+    },
+    {
+        "teamId": null,
+        "name": "Alpha9",
+        "status": null,
+        "country": "",
+        "institution": "Motilal Nehru National Institute of Technology - Allahabad"
+    },
+    {
+        "teamId": null,
+        "name": "Kodars Klub",
+        "status": null,
+        "country": "",
+        "institution": "Walchand College of Engineering, Sangli"
+    },
+    {
+        "teamId": null,
+        "name": "stackOverflowed",
+        "status": null,
+        "country": "",
+        "institution": "Indira Gandhi Delhi Technical University for Women"
+    },
+    {
+        "teamId": null,
+        "name": "Time Complexity Mafia",
+        "status": null,
+        "country": "",
+        "institution": "Motilal Nehru National Institute of Technology - Allahabad"
+    },
+    {
+        "teamId": null,
+        "name": "Sanyas",
+        "status": null,
+        "country": "",
+        "institution": "Motilal Nehru National Institute of Technology - Allahabad"
+    },
+    {
+        "teamId": null,
+        "name": "RandomGenerator",
+        "status": null,
+        "country": "",
+        "institution": "Motilal Nehru National Institute of Technology - Allahabad"
+    },
+    {
+        "teamId": null,
+        "name": "Phantom Coders",
+        "status": null,
+        "country": "",
+        "institution": "Motilal Nehru National Institute of Technology - Allahabad"
+    },
+    {
+        "teamId": null,
+        "name": "Segment Threee",
+        "status": null,
+        "country": "",
+        "institution": "Motilal Nehru National Institute of Technology - Allahabad"
+    },
+    {
+        "teamId": null,
+        "name": "Nightfarers",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "The Nameless Strings",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Rourkela"
+    },
+    {
+        "teamId": null,
+        "name": "CodeCrew",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham"
+    },
+    {
+        "teamId": null,
+        "name": "Savaj Coders",
+        "status": null,
+        "country": "",
+        "institution": "Nirma University"
+    },
+    {
+        "teamId": null,
+        "name": "CodingCrew",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham"
+    },
+    {
+        "teamId": null,
+        "name": "hello_world",
+        "status": null,
+        "country": "",
+        "institution": "Ambalika Institute of Management and Technology"
+    },
+    {
+        "teamId": null,
+        "name": "GroguX",
+        "status": null,
+        "country": "",
+        "institution": "Institute of Engineering and Rural Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Gada Electronics",
+        "status": null,
+        "country": "",
+        "institution": "Nirma University"
+    },
+    {
+        "teamId": null,
+        "name": "Segment Three",
+        "status": null,
+        "country": "",
+        "institution": "DJ Sanghvi College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "The Three Engineers",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Rourkela"
+    },
+    {
+        "teamId": null,
+        "name": "PSP_Rank_1",
+        "status": null,
+        "country": "",
+        "institution": "Rishihood University"
+    },
+    {
+        "teamId": null,
+        "name": "404.cpp",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "Nirbit",
+        "status": null,
+        "country": "",
+        "institution": "Ajay Kumar garg engineering college"
+    },
+    {
+        "teamId": null,
+        "name": "YITians",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "Terabyte",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "Sigmoid",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Patna"
+    },
+    {
+        "teamId": null,
+        "name": "Curry coders",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Code Crew",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering, Pune"
+    },
+    {
+        "teamId": null,
+        "name": "Azarus",
+        "status": null,
+        "country": "",
+        "institution": "Delhi Technological University(Formerly DCE)"
+    },
+    {
+        "teamId": null,
+        "name": "codeHunters",
+        "status": null,
+        "country": "",
+        "institution": "KIET GROUP OF INSTITUTIONS"
+    },
+    {
+        "teamId": null,
+        "name": "SALgorithm",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "Cors Policy",
+        "status": null,
+        "country": "",
+        "institution": "Chennai Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "RawEnCode",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University"
+    },
+    {
+        "teamId": null,
+        "name": "IseePC",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Varanasi"
+    },
+    {
+        "teamId": null,
+        "name": "Azkaban ke Kaidi",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Indore"
+    },
+    {
+        "teamId": null,
+        "name": "NewBies_",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "TUV",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Patna"
+    },
+    {
+        "teamId": null,
+        "name": "Pixentropy",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University"
+    },
+    {
+        "teamId": null,
+        "name": "TeamPrime",
+        "status": null,
+        "country": "",
+        "institution": "Shri Guru Gobind Singhji Institute of Engineering and Technology"
+    },
+    {
+        "teamId": null,
+        "name": "TeamSOA",
+        "status": null,
+        "country": "",
+        "institution": "Siksha O Anusandhan University"
+    },
+    {
+        "teamId": null,
+        "name": "not qualified",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Varanasi"
+    },
+    {
+        "teamId": null,
+        "name": "EZ PZ",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Hyderabad"
+    },
+    {
+        "teamId": null,
+        "name": "Obsedian",
+        "status": null,
+        "country": "",
+        "institution": "Rishihood University"
+    },
+    {
+        "teamId": null,
+        "name": "DGS_IITH",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Hyderabad"
+    },
+    {
+        "teamId": null,
+        "name": "Waluigi",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Hyderabad"
+    },
+    {
+        "teamId": null,
+        "name": "slay buggers",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "Code alpha",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "code birds",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "NP_Hard",
+        "status": null,
+        "country": "",
+        "institution": "Thapar Institute of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "The Ace",
+        "status": null,
+        "country": "",
+        "institution": "Galgotias University"
+    },
+    {
+        "teamId": null,
+        "name": "Multi-Thread",
+        "status": null,
+        "country": "",
+        "institution": "Thapar Institute of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Covalent Crew",
+        "status": null,
+        "country": "",
+        "institution": "Dr. Vishwanath Karad MIT World Peace University"
+    },
+    {
+        "teamId": null,
+        "name": "NP Complete",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Rourkela"
+    },
+    {
+        "teamId": null,
+        "name": "Biscuit coders",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "BeyondMinus",
+        "status": null,
+        "country": "",
+        "institution": "KLE Technological University"
+    },
+    {
+        "teamId": null,
+        "name": "THE DEBUGGERS",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham"
+    },
+    {
+        "teamId": null,
+        "name": "Burning_Tree",
+        "status": null,
+        "country": "",
+        "institution": "Chandigarh University"
+    },
+    {
+        "teamId": null,
+        "name": "Thinkers",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Hyderabad"
+    },
+    {
+        "teamId": null,
+        "name": "Coding Mavericks",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Hyderabad"
+    },
+    {
+        "teamId": null,
+        "name": "Graph Gurus",
+        "status": null,
+        "country": "",
+        "institution": "Indira Gandhi Delhi Technical University for Women"
+    },
+    {
+        "teamId": null,
+        "name": "Parso_Batayenge",
+        "status": null,
+        "country": "",
+        "institution": "Rishihood University"
+    },
+    {
+        "teamId": null,
+        "name": "Code_Maverick",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Patna"
+    },
+    {
+        "teamId": null,
+        "name": "Algo_Ninjas",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "Logn legends",
+        "status": null,
+        "country": "",
+        "institution": "Sreenidhi Institute of Science and Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Don't Know",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Hyderabad"
+    },
+    {
+        "teamId": null,
+        "name": "JVH Coders",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Tiruchirappalli"
+    },
+    {
+        "teamId": null,
+        "name": "Master Decoders",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "all_we_need_is_ac",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology, Palakkad"
+    },
+    {
+        "teamId": null,
+        "name": "not_this_time",
+        "status": null,
+        "country": "",
+        "institution": "The LNM Institute of Information Technology "
+    },
+    {
+        "teamId": null,
+        "name": "Novices",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham, Nagercoil"
+    },
+    {
+        "teamId": null,
+        "name": "Ambush",
+        "status": null,
+        "country": "",
+        "institution": "Ajeenkya DY Patil University"
+    },
+    {
+        "teamId": null,
+        "name": "GoaTed",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Jamshedpur"
+    },
+    {
+        "teamId": null,
+        "name": "CP Karoge to Maroge",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Jamshedpur"
+    },
+    {
+        "teamId": null,
+        "name": "8pm",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Jamshedpur"
+    },
+    {
+        "teamId": null,
+        "name": "TestCase",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Jamshedpur"
+    },
+    {
+        "teamId": null,
+        "name": "Mephistree",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Jamshedpur"
+    },
+    {
+        "teamId": null,
+        "name": "TEAM ALETHEON",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham, Nagercoil"
+    },
+    {
+        "teamId": null,
+        "name": "Kal_Batayenge",
+        "status": null,
+        "country": "",
+        "institution": "Rishihood University"
+    },
+    {
+        "teamId": null,
+        "name": "Hackspire ",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham, Nagercoil"
+    },
+    {
+        "teamId": null,
+        "name": "Eclipse",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Jamshedpur"
+    },
+    {
+        "teamId": null,
+        "name": "Recurves",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Jamshedpur"
+    },
+    {
+        "teamId": null,
+        "name": "Codex25",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham, Nagercoil"
+    },
+    {
+        "teamId": null,
+        "name": "SyntaxSlashers",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham, Nagercoil"
+    },
+    {
+        "teamId": null,
+        "name": "The NOT Operators",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Science, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "fans_of_fan_of_aa",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Science, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "ASK",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Science, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "CoderArmy",
+        "status": null,
+        "country": "",
+        "institution": "Thakur College of Engineering and Technology"
+    },
+    {
+        "teamId": null,
+        "name": "CodeXY",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering, Pune"
+    },
+    {
+        "teamId": null,
+        "name": "laapata_ladies",
+        "status": null,
+        "country": "",
+        "institution": "Rishihood University"
+    },
+    {
+        "teamId": null,
+        "name": "ACSepted",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Hyderabad"
+    },
+    {
+        "teamId": null,
+        "name": "Nexus",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Hyderabad"
+    },
+    {
+        "teamId": null,
+        "name": "Randomizers",
+        "status": null,
+        "country": "",
+        "institution": "Birla Institute of Technology and Science, Pilani Campus"
+    },
+    {
+        "teamId": null,
+        "name": "SegFaultSquad",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Hyderabad"
+    },
+    {
+        "teamId": null,
+        "name": "Rasmalai",
+        "status": null,
+        "country": "",
+        "institution": "Shri Mata Vaishno Devi University"
+    },
+    {
+        "teamId": null,
+        "name": "Try-Catch-Conquer",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Runtime Hacker",
+        "status": null,
+        "country": "",
+        "institution": "Graphic Era Hill University"
+    },
+    {
+        "teamId": null,
+        "name": "MemoryMisers",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology Dharwad"
+    },
+    {
+        "teamId": null,
+        "name": "ctrl+alt+del",
+        "status": null,
+        "country": "",
+        "institution": "Ajay Kumar Garg Engineering College, Ghaziabad"
+    },
+    {
+        "teamId": null,
+        "name": "The Lost Semicolon",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Raipur"
+    },
+    {
+        "teamId": null,
+        "name": "code_cubed",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Coimbatore"
+    },
+    {
+        "teamId": null,
+        "name": "3byte",
+        "status": null,
+        "country": "",
+        "institution": "Bhilai Institute of Technology, Durg"
+    },
+    {
+        "teamId": null,
+        "name": "ByteMe_",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "Catalysts",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham"
+    },
+    {
+        "teamId": null,
+        "name": "NUKE",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology Goa "
+    },
+    {
+        "teamId": null,
+        "name": "A-H-A_Moment",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology Goa "
+    },
+    {
+        "teamId": null,
+        "name": "The Lazy Coders",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology Goa "
+    },
+    {
+        "teamId": null,
+        "name": "Code predators",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham"
+    },
+    {
+        "teamId": null,
+        "name": "Bugs sabke niklenge",
+        "status": null,
+        "country": "",
+        "institution": "Swami Vivekananda Yoga Anusandhana Samsthana"
+    },
+    {
+        "teamId": null,
+        "name": "jigyasu_paglus",
+        "status": null,
+        "country": "",
+        "institution": "Rishihood University"
+    },
+    {
+        "teamId": null,
+        "name": "ThreeDDP",
+        "status": null,
+        "country": "",
+        "institution": "Shri Govindram Seksaria Institute of Technology and Science"
+    },
+    {
+        "teamId": null,
+        "name": "Code crusaders",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "CyberNova",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "CodeHunters",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "Runtime_Terror",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "CodeNxt",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "CodeKnights ",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "cipher pol",
+        "status": null,
+        "country": "",
+        "institution": "CMR College of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Attempt1",
+        "status": null,
+        "country": "",
+        "institution": "International Institute of Information Technology, Hyderabad"
+    },
+    {
+        "teamId": null,
+        "name": "Pseudo_Nerds",
+        "status": null,
+        "country": "",
+        "institution": "Maharaja Agrasen Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Tech Trio",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "TrioBlr",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham"
+    },
+    {
+        "teamId": null,
+        "name": "King_Slayer",
+        "status": null,
+        "country": "",
+        "institution": "Scaler School of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "SIGTERMS",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Patna"
+    },
+    {
+        "teamId": null,
+        "name": "Probably_TLE",
+        "status": null,
+        "country": "",
+        "institution": "VNR Vignana Jyothi Institute of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "pta_nhi",
+        "status": null,
+        "country": "",
+        "institution": "Rishihood University"
+    },
+    {
+        "teamId": null,
+        "name": "Pathfinders",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Hyderabad"
+    },
+    {
+        "teamId": null,
+        "name": "terminus",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Hyderabad"
+    },
+    {
+        "teamId": null,
+        "name": "Guruji",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Hyderabad"
+    },
+    {
+        "teamId": null,
+        "name": "Fateh",
+        "status": null,
+        "country": "",
+        "institution": "Punjabi University, Patiala"
+    },
+    {
+        "teamId": null,
+        "name": "CodX",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "Cognito",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "NeoTron",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "RMTechies",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "Autolnit",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "logiQ",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "Expirity",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "Hash_bash",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "XOR BOYS",
+        "status": null,
+        "country": "",
+        "institution": "Veermata Jijabai Technological Institute"
+    },
+    {
+        "teamId": null,
+        "name": "Game_Changers",
+        "status": null,
+        "country": "",
+        "institution": "Walchand College of Engineering, Sangli"
+    },
+    {
+        "teamId": null,
+        "name": "DHR Coders",
+        "status": null,
+        "country": "",
+        "institution": "Padmashri Dr.B V Raju Institute Of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "3Sum",
+        "status": null,
+        "country": "",
+        "institution": "Jalpaiguri Government Engineering College- Maulana Abul Kalam Azad University of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Codzilla",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham, Nagercoil"
+    },
+    {
+        "teamId": null,
+        "name": "ERROR404",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Engineering Science and Technology, Shibpur"
+    },
+    {
+        "teamId": null,
+        "name": "Byte me harder",
+        "status": null,
+        "country": "",
+        "institution": "Lakshmi Narain College of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "0xdeadbeef",
+        "status": null,
+        "country": "",
+        "institution": "MJP Rohilkhand University"
+    },
+    {
+        "teamId": null,
+        "name": "O(1) Ninjas",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "Team_of_Three",
+        "status": null,
+        "country": "",
+        "institution": "KLE Technological University"
+    },
+    {
+        "teamId": null,
+        "name": "Core_dump",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Silchar"
+    },
+    {
+        "teamId": null,
+        "name": "Ad-hoc",
+        "status": null,
+        "country": "",
+        "institution": "Vishwakarma Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "CtrlAltDel",
+        "status": null,
+        "country": "",
+        "institution": "Scaler School of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Ackermans",
+        "status": null,
+        "country": "",
+        "institution": "VNR Vignana Jyothi Institute of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Tech Team",
+        "status": null,
+        "country": "",
+        "institution": "Scaler School of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "we_are_doomed",
+        "status": null,
+        "country": "",
+        "institution": "Scaler School of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Syntax Sisters",
+        "status": null,
+        "country": "",
+        "institution": "Scaler School of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Trishul",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Silchar"
+    },
+    {
+        "teamId": null,
+        "name": "Roommates",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Kota"
+    },
+    {
+        "teamId": null,
+        "name": "Orion",
+        "status": null,
+        "country": "",
+        "institution": "International Institute of Information Technology, Hyderabad"
+    },
+    {
+        "teamId": null,
+        "name": "Team Dijkstra",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Kota"
+    },
+    {
+        "teamId": null,
+        "name": "bytespeed",
+        "status": null,
+        "country": "",
+        "institution": "KIET GROUP OF INSTITUTIONS"
+    },
+    {
+        "teamId": null,
+        "name": "kuch-nhi-aata",
+        "status": null,
+        "country": "",
+        "institution": "KLE Technological University"
+    },
+    {
+        "teamId": null,
+        "name": "wreckers",
+        "status": null,
+        "country": "",
+        "institution": "GOVERNMENT COLLEGE OF ENGINEERING SRIRANGAM, TRICHY - 620012"
+    },
+    {
+        "teamId": null,
+        "name": "Indigo",
+        "status": null,
+        "country": "",
+        "institution": "Rajiv Gandhi Institute Of Petroleum Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Slendermen",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Hyderabad"
+    },
+    {
+        "teamId": null,
+        "name": "Bot Coders",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology (ISM), Dhanbad"
+    },
+    {
+        "teamId": null,
+        "name": "Null nibblers",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Hyderabad"
+    },
+    {
+        "teamId": null,
+        "name": "Codians",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "Code Barbarians",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "team_name",
+        "status": null,
+        "country": "",
+        "institution": "Veermata Jijabai Technological Institute"
+    },
+    {
+        "teamId": null,
+        "name": "std::Winners",
+        "status": null,
+        "country": "",
+        "institution": "Vellore Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Phantom stack",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham Mysuru Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Nah, We'd Win",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology (ISM), Dhanbad"
+    },
+    {
+        "teamId": null,
+        "name": "Siang",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Silchar"
+    },
+    {
+        "teamId": null,
+        "name": "codeslayer",
+        "status": null,
+        "country": "",
+        "institution": "Dharmsinh Desai Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Chips and Bits",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Silchar"
+    },
+    {
+        "teamId": null,
+        "name": "ChillKardo",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Varanasi"
+    },
+    {
+        "teamId": null,
+        "name": "Three_Bytes",
+        "status": null,
+        "country": "",
+        "institution": "IIT Bhubaneswar"
+    },
+    {
+        "teamId": null,
+        "name": "GIT_Bashers",
+        "status": null,
+        "country": "",
+        "institution": "Babu Banarasi Das Institute of Technology & Management"
+    },
+    {
+        "teamId": null,
+        "name": "Stack Overflow ",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Sonepat"
+    },
+    {
+        "teamId": null,
+        "name": "THE SOUL SQUAD",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "No one ",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology (ISM), Dhanbad"
+    },
+    {
+        "teamId": null,
+        "name": "npcoders",
+        "status": null,
+        "country": "",
+        "institution": "Techno Main Salt Lake (formerly known as Techno India Salt Lake)"
+    },
+    {
+        "teamId": null,
+        "name": "NULLL POINTERS",
+        "status": null,
+        "country": "",
+        "institution": "VNR Vignana Jyothi Institute of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "WrongAnsOnTest2",
+        "status": null,
+        "country": "",
+        "institution": "Malaviya National Institute of Technology Jaipur"
+    },
+    {
+        "teamId": null,
+        "name": "SurveyCorps",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Jamshedpur"
+    },
+    {
+        "teamId": null,
+        "name": "Out of bounds",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology (ISM), Dhanbad"
+    },
+    {
+        "teamId": null,
+        "name": "Paneer Butter Masala",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "NotDecided",
+        "status": null,
+        "country": "",
+        "institution": "100x School of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "SHAN",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology Goa "
+    },
+    {
+        "teamId": null,
+        "name": "HouseStark",
+        "status": null,
+        "country": "",
+        "institution": "JSS Academy of Technical Education Noida"
+    },
+    {
+        "teamId": null,
+        "name": "Code Invaders",
+        "status": null,
+        "country": "",
+        "institution": "ABES Engineering College"
+    },
+    {
+        "teamId": null,
+        "name": "Bitline",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "chadGPT",
+        "status": null,
+        "country": "",
+        "institution": "Mukesh Patel School of Technology Management and Engineering, NMIMS University"
+    },
+    {
+        "teamId": null,
+        "name": "Coding Knights",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "BruteForcers",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology Goa "
+    },
+    {
+        "teamId": null,
+        "name": "Byte Busters",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri-Chinchwad College Of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "KAS",
+        "status": null,
+        "country": "",
+        "institution": "Veermata Jijabai Technological Institute"
+    },
+    {
+        "teamId": null,
+        "name": "RevengeOfTheFallen",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Silchar"
+    },
+    {
+        "teamId": null,
+        "name": "trie_again",
+        "status": null,
+        "country": "",
+        "institution": "Vidyalankar Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "NEWBIE",
+        "status": null,
+        "country": "",
+        "institution": "Rajkiya Engineering College Sonbhadra"
+    },
+    {
+        "teamId": null,
+        "name": "IseePCs",
+        "status": null,
+        "country": "",
+        "institution": "K. J. Somaiya College of Engineering, Vidyavihar, Mumbai"
+    },
+    {
+        "teamId": null,
+        "name": "infiniteloop",
+        "status": null,
+        "country": "",
+        "institution": "DIT University"
+    },
+    {
+        "teamId": null,
+        "name": "DAR",
+        "status": null,
+        "country": "",
+        "institution": "Scaler School of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "TeamFusion",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering, Pune"
+    },
+    {
+        "teamId": null,
+        "name": "whatPressure?",
+        "status": null,
+        "country": "",
+        "institution": "Scaler School of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Area 51 ",
+        "status": null,
+        "country": "",
+        "institution": "Chandigarh University"
+    },
+    {
+        "teamId": null,
+        "name": "Placed",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Patna"
+    },
+    {
+        "teamId": null,
+        "name": "Power House",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology,  Dharwad"
+    },
+    {
+        "teamId": null,
+        "name": "ICE_PC",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kanpur"
+    },
+    {
+        "teamId": null,
+        "name": "Recursia",
+        "status": null,
+        "country": "",
+        "institution": "Thapar Institute of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "BitsNGeeks",
+        "status": null,
+        "country": "",
+        "institution": "Shri Govindram Seksaria Institute of Technology and Science"
+    },
+    {
+        "teamId": null,
+        "name": "Compile Lords",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Kurukshetra"
+    },
+    {
+        "teamId": null,
+        "name": "LazyProp",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Bombay"
+    },
+    {
+        "teamId": null,
+        "name": "berozgar-kakshi",
+        "status": null,
+        "country": "",
+        "institution": "Vishwakarma Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Mirror",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "Akatsuki ",
+        "status": null,
+        "country": "",
+        "institution": "Malaviya National Institute of Technology Jaipur"
+    },
+    {
+        "teamId": null,
+        "name": "Virella",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Allahabad "
+    },
+    {
+        "teamId": null,
+        "name": "SASTAMEN",
+        "status": null,
+        "country": "",
+        "institution": "VNR Vignana Jyothi Institute of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "DataVinci",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology,  Dharwad"
+    },
+    {
+        "teamId": null,
+        "name": "cpaglus",
+        "status": null,
+        "country": "",
+        "institution": "International Institute of Information Technology - Naya Raipur"
+    },
+    {
+        "teamId": null,
+        "name": "Horsefire",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Una"
+    },
+    {
+        "teamId": null,
+        "name": "Kache Aam",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Kota"
+    },
+    {
+        "teamId": null,
+        "name": "Galvans",
+        "status": null,
+        "country": "",
+        "institution": "Nirma University"
+    },
+    {
+        "teamId": null,
+        "name": "Tricore1",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering, Pune"
+    },
+    {
+        "teamId": null,
+        "name": "Kitimunchuz",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "Old Monk",
+        "status": null,
+        "country": "",
+        "institution": "International Institute of Information Technology, Hyderabad"
+    },
+    {
+        "teamId": null,
+        "name": "Exponential growth",
+        "status": null,
+        "country": "",
+        "institution": "Veermata Jijabai Technological Institute"
+    },
+    {
+        "teamId": null,
+        "name": "12th-Fail",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Allahabad "
+    },
+    {
+        "teamId": null,
+        "name": "Forgecrypt",
+        "status": null,
+        "country": "",
+        "institution": "Ajeenkya DY Patil University"
+    },
+    {
+        "teamId": null,
+        "name": "NotCoders",
+        "status": null,
+        "country": "",
+        "institution": "Ajeenkya DY Patil University"
+    },
+    {
+        "teamId": null,
+        "name": "Byte Brigade",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "unknown domain",
+        "status": null,
+        "country": "",
+        "institution": "Swami Vivekananda Yoga Anusandhana Samsthana"
+    },
+    {
+        "teamId": null,
+        "name": "Towrist",
+        "status": null,
+        "country": "",
+        "institution": "100x School of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "AlgoQueen",
+        "status": null,
+        "country": "",
+        "institution": "Netaji Subhas University Of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Dominators_nirma_1",
+        "status": null,
+        "country": "",
+        "institution": "Nirma University"
+    },
+    {
+        "teamId": null,
+        "name": "bit by bit",
+        "status": null,
+        "country": "",
+        "institution": "NSS College of Engineering, Palakkad"
+    },
+    {
+        "teamId": null,
+        "name": "Black Clovers",
+        "status": null,
+        "country": "",
+        "institution": "Jawaharlal Nehru University"
+    },
+    {
+        "teamId": null,
+        "name": "KIRA",
+        "status": null,
+        "country": "",
+        "institution": "Silicon Institute of Technology, Bhubaneswar"
+    },
+    {
+        "teamId": null,
+        "name": "JMD",
+        "status": null,
+        "country": "",
+        "institution": "Graphic Era University"
+    },
+    {
+        "teamId": null,
+        "name": "N_Cube",
+        "status": null,
+        "country": "",
+        "institution": "Pandit Deendayal Energy University"
+    },
+    {
+        "teamId": null,
+        "name": "Chonga Chonga",
+        "status": null,
+        "country": "",
+        "institution": "Swami Vivekananda Yoga Anusandhana Samsthana"
+    },
+    {
+        "teamId": null,
+        "name": "Hikyu",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Allahabad "
+    },
+    {
+        "teamId": null,
+        "name": "aslam bombers",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Allahabad "
+    },
+    {
+        "teamId": null,
+        "name": "Code blooded",
+        "status": null,
+        "country": "",
+        "institution": "VNR Vignana Jyothi Institute of Engineering & Technology"
+    },
+    {
+        "teamId": null,
+        "name": "PseudoCoders",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri-Chinchwad College Of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "vapd",
+        "status": null,
+        "country": "",
+        "institution": "Saveetha Engineering College"
+    },
+    {
+        "teamId": null,
+        "name": "Code Pirates",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Una"
+    },
+    {
+        "teamId": null,
+        "name": "hextech",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "Pesticides",
+        "status": null,
+        "country": "",
+        "institution": "PES University"
+    },
+    {
+        "teamId": null,
+        "name": "Lost Electrons",
+        "status": null,
+        "country": "",
+        "institution": "Visvesvaraya National Institute of Technology, Nagpur"
+    },
+    {
+        "teamId": null,
+        "name": "cantreachCM",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Bombay"
+    },
+    {
+        "teamId": null,
+        "name": "SIGABRT",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology Goa "
+    },
+    {
+        "teamId": null,
+        "name": "SKKV_01",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Una"
+    },
+    {
+        "teamId": null,
+        "name": "Wanna_be_CMs",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Indore"
+    },
+    {
+        "teamId": null,
+        "name": "Team Ekaksh",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering, Pune"
+    },
+    {
+        "teamId": null,
+        "name": "Chat LGPT",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Indore"
+    },
+    {
+        "teamId": null,
+        "name": "Not_ChatGPT",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology (ISM), Dhanbad"
+    },
+    {
+        "teamId": null,
+        "name": "Team Rocket",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Patna"
+    },
+    {
+        "teamId": null,
+        "name": "wrong_answer_on_test_2",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Indore"
+    },
+    {
+        "teamId": null,
+        "name": "ARM-456",
+        "status": null,
+        "country": "",
+        "institution": "Muthoot Institute of Technology and Science"
+    },
+    {
+        "teamId": null,
+        "name": "The Segmentors",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Indore"
+    },
+    {
+        "teamId": null,
+        "name": "Codecrafters 2.0",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Indore"
+    },
+    {
+        "teamId": null,
+        "name": "Tarot Club",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Indore"
+    },
+    {
+        "teamId": null,
+        "name": "Segmentation Fault",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Indore"
+    },
+    {
+        "teamId": null,
+        "name": "Not_Found_Plaigiarism",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Indore"
+    },
+    {
+        "teamId": null,
+        "name": "Aloo Bhujiya",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Indore"
+    },
+    {
+        "teamId": null,
+        "name": "NetRunners",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Indore"
+    },
+    {
+        "teamId": null,
+        "name": "Invincibles",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Indore"
+    },
+    {
+        "teamId": null,
+        "name": "Bitrayers",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Indore"
+    },
+    {
+        "teamId": null,
+        "name": "CodeNVD",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Indore"
+    },
+    {
+        "teamId": null,
+        "name": "Code Trident",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Indore"
+    },
+    {
+        "teamId": null,
+        "name": "Bug's Purgatory",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Indore"
+    },
+    {
+        "teamId": null,
+        "name": "Vec3",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Kottayam"
+    },
+    {
+        "teamId": null,
+        "name": "TripleEyeTea_DMK",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Design and manufacturing Kurnool"
+    },
+    {
+        "teamId": null,
+        "name": "Uncle Bao Bao",
+        "status": null,
+        "country": "",
+        "institution": "Sardar Patel Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Elite",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Hacktivators",
+        "status": null,
+        "country": "",
+        "institution": "NSS College of Engineering, Palakkad"
+    },
+    {
+        "teamId": null,
+        "name": "CodeEnigma",
+        "status": null,
+        "country": "",
+        "institution": "COEP Technological University"
+    },
+    {
+        "teamId": null,
+        "name": "Techspire",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering, Pune"
+    },
+    {
+        "teamId": null,
+        "name": "neela_hai_aasman",
+        "status": null,
+        "country": "",
+        "institution": "Army Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Enjvoyers",
+        "status": null,
+        "country": "",
+        "institution": "Army Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "PMosfeT",
+        "status": null,
+        "country": "",
+        "institution": "Army Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Bakemono",
+        "status": null,
+        "country": "",
+        "institution": "Army Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Noobs",
+        "status": null,
+        "country": "",
+        "institution": "Army Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "qChaltiHaiPavan",
+        "status": null,
+        "country": "",
+        "institution": "Army Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Zukzag",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University"
+    },
+    {
+        "teamId": null,
+        "name": "3A Rated",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Engineering Science and Technology, Shibpur"
+    },
+    {
+        "teamId": null,
+        "name": "FFT",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University"
+    },
+    {
+        "teamId": null,
+        "name": "Packet Ninjas",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Arts and Sciences, Mysore"
+    },
+    {
+        "teamId": null,
+        "name": "404",
+        "status": null,
+        "country": "",
+        "institution": "Pune Institute of Computer Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Challenge_accepted",
+        "status": null,
+        "country": "",
+        "institution": "Army Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Crimson Coders",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Rourkela"
+    },
+    {
+        "teamId": null,
+        "name": "AlgoJUN",
+        "status": null,
+        "country": "",
+        "institution": "Nirma University"
+    },
+    {
+        "teamId": null,
+        "name": "The NPCs",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Tech Troops",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Tribit",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Cerberus",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Varanasi"
+    },
+    {
+        "teamId": null,
+        "name": "queue_T_pie",
+        "status": null,
+        "country": "",
+        "institution": "Vishwakarma Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Ghafoor",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Bhopal"
+    },
+    {
+        "teamId": null,
+        "name": "#6f5b4d #be8e6e #9c735f",
+        "status": null,
+        "country": "",
+        "institution": "Chennai Mathematical Institute"
+    },
+    {
+        "teamId": null,
+        "name": "magical dolphins",
+        "status": null,
+        "country": "",
+        "institution": "Vellore Institute of Technology, Chennai"
+    },
+    {
+        "teamId": null,
+        "name": "Reddys",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Allahabad "
+    },
+    {
+        "teamId": null,
+        "name": "CP Lovers",
+        "status": null,
+        "country": "",
+        "institution": "International Institute of Information Technology, Hyderabad"
+    },
+    {
+        "teamId": null,
+        "name": "Depressed_souls",
+        "status": null,
+        "country": "",
+        "institution": "Kashi Institute of Technology Varanasi"
+    },
+    {
+        "teamId": null,
+        "name": "ParadoxOptimizers",
+        "status": null,
+        "country": "",
+        "institution": "Raj Kumar Goel Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Potato_coders",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology (ISM), Dhanbad"
+    },
+    {
+        "teamId": null,
+        "name": "SpanningTree",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology (ISM), Dhanbad"
+    },
+    {
+        "teamId": null,
+        "name": "TrinityTomodachi",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "404NotFound",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology (ISM), Dhanbad"
+    },
+    {
+        "teamId": null,
+        "name": "ByteCrackers",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering, Pune"
+    },
+    {
+        "teamId": null,
+        "name": "CodeWitches",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Patna"
+    },
+    {
+        "teamId": null,
+        "name": "Binary Lifters",
+        "status": null,
+        "country": "",
+        "institution": "Sardar Patel Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "CP Enthusiasts",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham"
+    },
+    {
+        "teamId": null,
+        "name": "tle omitters",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Chennai"
+    },
+    {
+        "teamId": null,
+        "name": "Demogorgans",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham, Nagercoil"
+    },
+    {
+        "teamId": null,
+        "name": "dwalthai",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Varanasi"
+    },
+    {
+        "teamId": null,
+        "name": "Opcode",
+        "status": null,
+        "country": "",
+        "institution": "Visvesvaraya National Institute of Technology, Nagpur"
+    },
+    {
+        "teamId": null,
+        "name": "Atomic",
+        "status": null,
+        "country": "",
+        "institution": "Indore Institute of Science and Technology"
+    },
+    {
+        "teamId": null,
+        "name": "E.V.O",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "AVS",
+        "status": null,
+        "country": "",
+        "institution": "Amity University"
+    },
+    {
+        "teamId": null,
+        "name": "Inteqam",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Allahabad "
+    },
+    {
+        "teamId": null,
+        "name": "3Coders",
+        "status": null,
+        "country": "",
+        "institution": "Vishwakarma Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Team_Seven",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Varanasi"
+    },
+    {
+        "teamId": null,
+        "name": "TechSpectra",
+        "status": null,
+        "country": "",
+        "institution": "K. K. Wagh Institute of Engineering Education and Research, Nashik"
+    },
+    {
+        "teamId": null,
+        "name": "Semicolon",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Allahabad "
+    },
+    {
+        "teamId": null,
+        "name": "CodeMania",
+        "status": null,
+        "country": "",
+        "institution": "ABES Engineering College"
+    },
+    {
+        "teamId": null,
+        "name": "Lord of the Strings",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Tiruchirappalli"
+    },
+    {
+        "teamId": null,
+        "name": "1984",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Roorkee"
+    },
+    {
+        "teamId": null,
+        "name": "Saiyans",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Lucknow"
+    },
+    {
+        "teamId": null,
+        "name": "Syntax_Terrorists",
+        "status": null,
+        "country": "",
+        "institution": "KIET GROUP OF INSTITUTIONS"
+    },
+    {
+        "teamId": null,
+        "name": "NAPsquad",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Indore"
+    },
+    {
+        "teamId": null,
+        "name": "skill_issue",
+        "status": null,
+        "country": "",
+        "institution": "Sardar Vallabhbhai National Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "TLe_Warrior",
+        "status": null,
+        "country": "",
+        "institution": "Axis Institute of Technology and Management"
+    },
+    {
+        "teamId": null,
+        "name": "Anti_Matters",
+        "status": null,
+        "country": "",
+        "institution": "Ajay Kumar Garg Engineering College, Ghaziabad"
+    },
+    {
+        "teamId": null,
+        "name": "youwannaplay?letsplay",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "MLE_TLE",
+        "status": null,
+        "country": "",
+        "institution": "ABES Engineering College"
+    },
+    {
+        "teamId": null,
+        "name": "Team Segment",
+        "status": null,
+        "country": "",
+        "institution": "Pimpri Chinchwad College of Engineering, Pune"
+    },
+    {
+        "teamId": null,
+        "name": "Coderellas",
+        "status": null,
+        "country": "",
+        "institution": "Amity University"
+    },
+    {
+        "teamId": null,
+        "name": "Coders in Pyjamas",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Allahabad "
+    },
+    {
+        "teamId": null,
+        "name": "Syntax Squad",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Computing, Coimbatore"
+    },
+    {
+        "teamId": null,
+        "name": "Think_Again",
+        "status": null,
+        "country": "",
+        "institution": "Motilal Nehru National Institute of Technology - Allahabad"
+    },
+    {
+        "teamId": null,
+        "name": "Krishna",
+        "status": null,
+        "country": "",
+        "institution": "Netaji Subhas University Of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Coffee Overflow",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "Geek Minds",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "Divide_By_Zero",
+        "status": null,
+        "country": "",
+        "institution": "Marathwada Mitra Mandal's College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "The_Debuggers",
+        "status": null,
+        "country": "",
+        "institution": "Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar"
+    },
+    {
+        "teamId": null,
+        "name": "PSM_KKR",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Kurukshetra"
+    },
+    {
+        "teamId": null,
+        "name": "Ace Coders",
+        "status": null,
+        "country": "",
+        "institution": "Vivekananda Institute of Professional Studies - Technical Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Paneer_Tikka",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Allahabad "
+    },
+    {
+        "teamId": null,
+        "name": "Team SuPeR",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Durgapur"
+    },
+    {
+        "teamId": null,
+        "name": "HashSlayers",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "Solvica",
+        "status": null,
+        "country": "",
+        "institution": "Lakshmi Narain College of Technology Excellence"
+    },
+    {
+        "teamId": null,
+        "name": "Lazy_three",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Allahabad "
+    },
+    {
+        "teamId": null,
+        "name": "Aura Farmers",
+        "status": null,
+        "country": "",
+        "institution": "IIT Bhubaneswar"
+    },
+    {
+        "teamId": null,
+        "name": "Minus Earth",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "berozgar_parivaar",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Patna"
+    },
+    {
+        "teamId": null,
+        "name": "Schrodinger's Cat",
+        "status": null,
+        "country": "",
+        "institution": "Pandit Deendayal Energy University"
+    },
+    {
+        "teamId": null,
+        "name": "BLITZ",
+        "status": null,
+        "country": "",
+        "institution": "Sardar Vallabhbhai National Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Coffee Aur Code",
+        "status": null,
+        "country": "",
+        "institution": "Sardar Vallabhbhai National Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "BrainLE",
+        "status": null,
+        "country": "",
+        "institution": "Sardar Vallabhbhai National Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Magic Monk",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University"
+    },
+    {
+        "teamId": null,
+        "name": "ac_kaise_hogaya",
+        "status": null,
+        "country": "",
+        "institution": "University Institute of Technology - RGPV"
+    },
+    {
+        "teamId": null,
+        "name": "Rangey bhakts",
+        "status": null,
+        "country": "",
+        "institution": "Parul University"
+    },
+    {
+        "teamId": null,
+        "name": "Bawlerz",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Pune"
+    },
+    {
+        "teamId": null,
+        "name": "Edge(case) Runners",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Pune"
+    },
+    {
+        "teamId": null,
+        "name": "Multivitamin",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Pune"
+    },
+    {
+        "teamId": null,
+        "name": "Bit-by-bit",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham"
+    },
+    {
+        "teamId": null,
+        "name": "CODERZ",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology,Una"
+    },
+    {
+        "teamId": null,
+        "name": "Syntax Error",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham"
+    },
+    {
+        "teamId": null,
+        "name": "71000TICKET",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "bit crusaders",
+        "status": null,
+        "country": "",
+        "institution": "Manipal University Jaipur"
+    },
+    {
+        "teamId": null,
+        "name": "The_questionmarks",
+        "status": null,
+        "country": "",
+        "institution": "KLE Technological University"
+    },
+    {
+        "teamId": null,
+        "name": "no penality pls",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Allahabad "
+    },
+    {
+        "teamId": null,
+        "name": "ByTe_BanDits",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Roorkee"
+    },
+    {
+        "teamId": null,
+        "name": "Wavelet Tree",
+        "status": null,
+        "country": "",
+        "institution": "Rajiv Gandhi Institute Of Petroleum Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Decoders",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham"
+    },
+    {
+        "teamId": null,
+        "name": "Black Bulls",
+        "status": null,
+        "country": "",
+        "institution": "Sri Krishna College of Engineering and Technology"
+    },
+    {
+        "teamId": null,
+        "name": "RandomCoders",
+        "status": null,
+        "country": "",
+        "institution": "Chennai Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Rising coders",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham"
+    },
+    {
+        "teamId": null,
+        "name": "yetSomeProblemsLeft",
+        "status": null,
+        "country": "",
+        "institution": "Nirma University"
+    },
+    {
+        "teamId": null,
+        "name": "Chill Sweats",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "Obsidian",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Patna"
+    },
+    {
+        "teamId": null,
+        "name": "Katta_Fighters",
+        "status": null,
+        "country": "",
+        "institution": "Kalinga Institute Of Industrial Technology,Bhubaneswar"
+    },
+    {
+        "teamId": null,
+        "name": "DP_Lovers",
+        "status": null,
+        "country": "",
+        "institution": "Kamla Nehru Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "The 3",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "JOJO",
+        "status": null,
+        "country": "",
+        "institution": "MIT World Peace University"
+    },
+    {
+        "teamId": null,
+        "name": "Runtime_Terror_A",
+        "status": null,
+        "country": "",
+        "institution": "Jabalpur Engineering College"
+    },
+    {
+        "teamId": null,
+        "name": "Algo Goblins",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Delhi "
+    },
+    {
+        "teamId": null,
+        "name": "VAV",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham"
+    },
+    {
+        "teamId": null,
+        "name": "Compile Error",
+        "status": null,
+        "country": "",
+        "institution": "Guru Jambheshwar University"
+    },
+    {
+        "teamId": null,
+        "name": "Team Skyfall",
+        "status": null,
+        "country": "",
+        "institution": "Sardar Patel Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Trie Harder",
+        "status": null,
+        "country": "",
+        "institution": "Scaler School of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "bug_slayers",
+        "status": null,
+        "country": "",
+        "institution": "Dharmsinh Desai Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "UG_coders",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University, Kolkata"
+    },
+    {
+        "teamId": null,
+        "name": "XORcist",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University, Kolkata"
+    },
+    {
+        "teamId": null,
+        "name": "nonchalant_coderz",
+        "status": null,
+        "country": "",
+        "institution": "Maharaja Agrasen Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "ChanduKeChaCha",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kanpur"
+    },
+    {
+        "teamId": null,
+        "name": "mt19937",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kanpur"
+    },
+    {
+        "teamId": null,
+        "name": "Pro Programmers",
+        "status": null,
+        "country": "",
+        "institution": "SIES Graduate School of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "HashMaps",
+        "status": null,
+        "country": "",
+        "institution": "A J Institute of Engineering and Technology"
+    },
+    {
+        "teamId": null,
+        "name": "mathforces",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "Papa Aagaye",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Ropar"
+    },
+    {
+        "teamId": null,
+        "name": "Recursive Resolvers",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Rourkela"
+    },
+    {
+        "teamId": null,
+        "name": "Code-dreamers",
+        "status": null,
+        "country": "",
+        "institution": "IIT Bhubaneswar"
+    },
+    {
+        "teamId": null,
+        "name": "3D-X",
+        "status": null,
+        "country": "",
+        "institution": "Chennai Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Three Musketeers",
+        "status": null,
+        "country": "",
+        "institution": "Indira Gandhi Delhi Technical University for Women"
+    },
+    {
+        "teamId": null,
+        "name": "Nap Stack",
+        "status": null,
+        "country": "",
+        "institution": "Netaji Subhas University Of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "ezzWF",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Gandhinagar"
+    },
+    {
+        "teamId": null,
+        "name": "All is Well",
+        "status": null,
+        "country": "",
+        "institution": "International Institute of Information Technology, Hyderabad"
+    },
+    {
+        "teamId": null,
+        "name": "Cipher",
+        "status": null,
+        "country": "",
+        "institution": "Indira Gandhi Delhi Technical University for Women"
+    },
+    {
+        "teamId": null,
+        "name": "Schrödinger’s output",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "CodeXX",
+        "status": null,
+        "country": "",
+        "institution": "Sardar Vallabhbhai National Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Codify",
+        "status": null,
+        "country": "",
+        "institution": "Amrita Vishwa Vidyapeetham Chennai Campus"
+    },
+    {
+        "teamId": null,
+        "name": "Zarapura Trio",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Delhi"
+    },
+    {
+        "teamId": null,
+        "name": "Depletion Maximum",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Pune"
+    },
+    {
+        "teamId": null,
+        "name": "Stellarlune",
+        "status": null,
+        "country": "",
+        "institution": "Sri Sivasubramaniya Nadar College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "herbrand_theory",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Bombay"
+    },
+    {
+        "teamId": null,
+        "name": "Dhi Shakti",
+        "status": null,
+        "country": "",
+        "institution": "Model Institute of Engineering and Technology"
+    },
+    {
+        "teamId": null,
+        "name": "SachinKaShrikhandh",
+        "status": null,
+        "country": "",
+        "institution": "Walchand College of Engineering, Sangli"
+    },
+    {
+        "teamId": null,
+        "name": "XXXDADXXX",
+        "status": null,
+        "country": "",
+        "institution": "Sardar Vallabhbhai National Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Mission-100-0-100",
+        "status": null,
+        "country": "",
+        "institution": "PDPM Indian Institute of Information Technology Design & Manufacturing, Jabalpur"
+    },
+    {
+        "teamId": null,
+        "name": "Nexovate",
+        "status": null,
+        "country": "",
+        "institution": "Sardar Vallabhbhai National Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "SAP_Coders",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Kharagpur"
+    },
+    {
+        "teamId": null,
+        "name": "BASS",
+        "status": null,
+        "country": "",
+        "institution": "Malaviya National Institute of Technology Jaipur"
+    },
+    {
+        "teamId": null,
+        "name": "Cebause",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Computing, Coimbatore"
+    },
+    {
+        "teamId": null,
+        "name": "AlreadyQualified",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Nagpur"
+    },
+    {
+        "teamId": null,
+        "name": "OnlyCodes",
+        "status": null,
+        "country": "",
+        "institution": "Bipin Tripathi Kumaon Institute of Technology, Dwarahat"
+    },
+    {
+        "teamId": null,
+        "name": "log and loops",
+        "status": null,
+        "country": "",
+        "institution": "School of Engineering and Applied Science, Ahmedabad University"
+    },
+    {
+        "teamId": null,
+        "name": "Codehawks",
+        "status": null,
+        "country": "",
+        "institution": "Delhi Technological University(Formerly DCE)"
+    },
+    {
+        "teamId": null,
+        "name": "Golden Eagle",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Roorkee"
+    },
+    {
+        "teamId": null,
+        "name": "BitSet",
+        "status": null,
+        "country": "",
+        "institution": "HALDIA INSTITUTE OF TECHNOLOGY"
+    },
+    {
+        "teamId": null,
+        "name": "ByteWars",
+        "status": null,
+        "country": "",
+        "institution": "Ganeshi Lal Bajaj Institute Of Technology And Management"
+    },
+    {
+        "teamId": null,
+        "name": "RuntimeRebels",
+        "status": null,
+        "country": "",
+        "institution": "KIET GROUP OF INSTITUTIONS"
+    },
+    {
+        "teamId": null,
+        "name": "Sechs_Zoll",
+        "status": null,
+        "country": "",
+        "institution": "Motilal Nehru National Institute of Technology - Allahabad"
+    },
+    {
+        "teamId": null,
+        "name": "postesters2",
+        "status": null,
+        "country": "",
+        "institution": "Vellore Institute of Technology, Chennai"
+    },
+    {
+        "teamId": null,
+        "name": "Indomitable",
+        "status": null,
+        "country": "",
+        "institution": "DJ Sanghvi College of Engineering"
+    },
+    {
+        "teamId": null,
+        "name": "Astra",
+        "status": null,
+        "country": "",
+        "institution": "Graphic Era Hill University"
+    },
+    {
+        "teamId": null,
+        "name": "Golu",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology and Management, Gwalior"
+    },
+    {
+        "teamId": null,
+        "name": "Hookage",
+        "status": null,
+        "country": "",
+        "institution": "Amrita School of Engineering, Bangalore"
+    },
+    {
+        "teamId": null,
+        "name": "NITM",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Meghalaya"
+    },
+    {
+        "teamId": null,
+        "name": "KLARION ",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology Meghalaya"
+    },
+    {
+        "teamId": null,
+        "name": "WA_on_TC_2",
+        "status": null,
+        "country": "",
+        "institution": "Jadavpur University, Kolkata"
+    },
+    {
+        "teamId": null,
+        "name": "Murugan",
+        "status": null,
+        "country": "",
+        "institution": "Veermata Jijabai Technological Institute"
+    },
+    {
+        "teamId": null,
+        "name": "Newbie",
+        "status": null,
+        "country": "",
+        "institution": "Graphic Era Hill University"
+    },
+    {
+        "teamId": null,
+        "name": "Krish",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Pune"
+    },
+    {
+        "teamId": null,
+        "name": "Brahmastra",
+        "status": null,
+        "country": "",
+        "institution": "The LNM Institute of Information Technology "
+    },
+    {
+        "teamId": null,
+        "name": "MetaMorphs",
+        "status": null,
+        "country": "",
+        "institution": "Sardar Vallabhbhai National Institute of Technology"
+    },
+    {
+        "teamId": null,
+        "name": "Tractor",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Technology - Guwahati"
+    },
+    {
+        "teamId": null,
+        "name": "TECH_TEAM",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology, Una"
+    },
+    {
+        "teamId": null,
+        "name": "Aubergine",
+        "status": null,
+        "country": "",
+        "institution": "National Institute of Technology, Hamirpur"
+    },
+    {
+        "teamId": null,
+        "name": "Code Valkyries",
+        "status": null,
+        "country": "",
+        "institution": "Indian Institute of Information Technology Kottayam"
+    }
+]
