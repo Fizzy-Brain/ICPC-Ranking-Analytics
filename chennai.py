@@ -48,5 +48,9 @@ def chennai_region_clg_teams():
     df = pd.DataFrame(clg_teams)
     df = df[['S.No', 'regional_rank', 'rank', 'name', 'id', 'score', 'Penalties', 'Total Time']]
     df.columns = ['S.No', 'Regional Rank', 'Overall Rank', 'Team Name', 'Team ID', 'Score', 'Penalties', 'Total Time']
+    print("Total Teams Registered: {}".format(len(teams_data)))
+    print("Total Teams Participated: {}".format(len(chennai_teams_rank)))
+    print("Total Teams not participated: {}".format(len(teams_data)-len(chennai_teams_rank)))
+    print("Teams from Chennai Institute of Technology: {}".format(len(clg_teams)))
     print(tabulate(df, headers=df.columns, tablefmt='pretty', showindex=False, numalign='left', stralign='left'))
     return df
